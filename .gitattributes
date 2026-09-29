@@ -1,0 +1,21 @@
+# Normalización de fin de línea entre los tres sistemas operativos del equipo
+# (Windows, Linux, macOS). Evita conflictos en todo el repositorio y mantiene el
+# historial legible.
+
+* text=auto eol=lf
+
+*.java   text eol=lf
+*.xml    text eol=lf
+pom.xml  text eol=lf
+*.md     text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.json   text eol=lf
+.gitignore     text eol=lf
+.gitattributes text eol=lf
+.editorconfig  text eol=lf
+
+# Documentación de Visual Paradigm: binarios
+*.vpp binary
+*.vpd binary
+*.vpm binary
