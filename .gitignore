@@ -1,6 +1,7 @@
 # ---------------------------------------------------------------------------
 # Sistema de Gestión de Radiodiagnóstico e Imagen Médica (SESCAM)
 # 2026-ISO2-3B2.01 · Ingeniería del Software II
+# IDE oficial: Visual Studio Code
 # ---------------------------------------------------------------------------
 
 # --- Maven -----------------------------------------------------------------
@@ -11,7 +12,6 @@ pom.xml.versionsBackup
 pom.xml.next
 buildNumber.properties
 .mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
 release.properties
 dependency-reduced-pom.xml
 
@@ -23,45 +23,45 @@ dependency-reduced-pom.xml
 *.nar
 hs_err_pid*
 replay_pid*
-
-# --- Eclipse (regenerado por el IDE, nunca versionado) ---------------------
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings/
-.springBeans
-.sts4-cache
-.metadata/
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-/tmp/
-/tmpFly/
-/temp/
+tmp/
 
-# --- IntelliJ IDEA / JetBrains ---------------------------------------------
+# --- Visual Studio Code -----------------------------------------------------
+# Se ignora el estado local del editor, pero se versionan las configuraciones
+# compartidas por el equipo: extensiones recomendadas, ajustes de Java/Maven,
+# configuración de depuración y tareas de construcción.
+#
+# Ojo: no puede escribirse `.vscode/` seguido de `!excepción`, porque Git no
+# re-incluye un fichero cuyo directorio padre está excluido. Por eso se ignora
+# el contenido (`*`) y no el directorio.
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.vscode/.browse.data
+.vscode/*.vscdb
+.vscode/*.code-workspace
+
+# --- Estado de IDE ajeno al oficial ----------------------------------------
+# El IDE oficial es Visual Studio Code. Si algún miembro del equipo abre el
+# proyecto con JetBrains, su configuración local no debe entrar al repositorio.
 .idea/
 *.iml
 *.ipr
 *.iws
-out/
-.idea_modules
-
-# --- Visual Paradigm --------------------------------------------------------
-*.vpp
-*.vpd
-*.vm.html
-.vp_*
-.vpworkspace
-*.vpm
-*.vpdata
-.vpbackup
-!**/modelos/*.vpp
-
-# --- NetBeans ---------------------------------------------------------------
 nbproject/
 nb-configuration.xml
+
+# --- Visual Paradigm (herramienta de modelado) -----------------------------
+# Los modelos .vpp son entregable de la wiki (README), así que se versionan.
+# Solo se ignoran los temporales de trabajo y las copias de seguridad.
+.vp_*
+.vpworkspace
+.vpbackup
+*.vpd
+*.vm.html
+*.vpdata
 
 # --- Sistema operativo ------------------------------------------------------
 .DS_Store
@@ -71,13 +71,10 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
-# --- Editores ---------------------------------------------------------------
+# --- Editores y herramientas auxiliares ------------------------------------
 *.swp
 *.swo
 *~
-.idea/codeStyles/
-.vscode/
-!.vscode/extensions.json
 .atom/
 .build/
 .cxx/
