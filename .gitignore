@@ -1,0 +1,91 @@
+# ---------------------------------------------------------------------------
+# Sistema de Gestión de Radiodiagnóstico e Imagen Médica (SESCAM)
+# 2026-ISO2-3B2.01 · Ingeniería del Software II
+# ---------------------------------------------------------------------------
+
+# --- Maven -----------------------------------------------------------------
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+release.properties
+dependency-reduced-pom.xml
+
+# --- Java / compilados -----------------------------------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# --- Eclipse (regenerado por el IDE, nunca versionado) ---------------------
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.metadata/
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+/tmp/
+/tmpFly/
+/temp/
+
+# --- IntelliJ IDEA / JetBrains ---------------------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules
+
+# --- Visual Paradigm --------------------------------------------------------
+*.vpp
+*.vpd
+*.vm.html
+.vp_*
+.vpworkspace
+*.vpm
+*.vpdata
+.vpbackup
+!**/modelos/*.vpp
+
+# --- NetBeans ---------------------------------------------------------------
+nbproject/
+nb-configuration.xml
+
+# --- Sistema operativo ------------------------------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- Editores ---------------------------------------------------------------
+*.swp
+*.swo
+*~
+.idea/codeStyles/
+.vscode/
+!.vscode/extensions.json
+.atom/
+.build/
+.cxx/
+
+# --- Logs y datos temporales de pruebas -------------------------------------
+*.log
+logs/
+surefire-reports/
+failsafe-reports/
+/dumps/
+/nul
