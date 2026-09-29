@@ -113,11 +113,11 @@ fuerza de ejecución controlada, no el sustituto de esas decisiones.
 
 ### Stack
 
-- **Java**, con **Eclipse** y **Visual Paradigm**
+- **Java**, con **Visual Studio Code** como IDE y **Visual Paradigm** para el
+  modelado
 - **Maven** en proyectos multimódulo
 - **Git** con estrategia de ramificación **Git Flow**
-- Agentes de soporte al desarrollo (IA): VS Code + GitHub Copilot Chat, OpenCode,
-  Antigravity, Claude Code, modelos locales vía Ollama o LM Studio
+- Agentes de soporte al desarrollo (IA): **OpenCode** y **GitHub Copilot**
 
 ---
 
