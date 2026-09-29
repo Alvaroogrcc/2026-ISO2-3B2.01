@@ -1,0 +1,44 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.maven.enabled": true,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "${env:JAVA_HOME}/bin/java",
+      "default": true
+    }
+  ],
+  "java.test.defaultConfig": "googleJUnit",
+  "java.format.settings.profile": "googleStyle.java",
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "[java]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": false
+  },
+  "[xml]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+  "files.exclude": {
+    "**/target": true,
+    "**/.git": true,
+    "**/.idea": true
+  },
+  "search.exclude": {
+    "**/target": true,
+    "**/*.log": true
+  },
+  "git.autofetch": true,
+  "git.autofetchPeriod": 120,
+  "git.branchProtection": [
+    "main"
+  ],
+  "git.branchProtectionPrompt": "always"
+}
