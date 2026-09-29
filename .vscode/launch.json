@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Depurar clase Java (actual)",
+      "request": "launch",
+      "mainClass": "${file}",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "type": "java",
+      "name": "Depurar clase Java (seleccionar paquete)",
+      "request": "launch",
+      "mainClass": "com.escam.radiodiagnostico",
+      "projectName": "radiodiagnostico-nucleo",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "type": "java",
+      "name": "Depurar pruebas JUnit (clase actual)",
+      "request": "launch",
+      "mainClass": "${file}",
+      "projectName": "radiodiagnostico-nucleo",
+      "testClass": "${fileClassname}",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    }
+  ]
+}
