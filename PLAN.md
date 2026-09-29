@@ -147,7 +147,7 @@ revisa en cada reunión.
 | **H1 · Entrega Teoría 1** | 2026-11-13 | Documento de planificación, GC y calidad entregado en Moodle | PDF subido a Moodle antes de las 23:59 |
 | **H2 · Entrega Práctica 1** | 2026-12-15 | Wiki, commits, issues e Insights al día | Wiki navegable y release `v1.0.0` publicada |
 | **H3 · Release candidate** | 2026-12-11 | Todos los componentes integrados y probados | `mvn verify` en verde sobre `develop` |
-| **H4 · Release v1.0.0** | 2026-12-11 | Tag `v1.0.0` sobre `main` | Tag creado desde `main` vía PR desde `release/v1.0.0` |
+| **H4 · Release v1.0.0** | 2026-12-11 | Tag `v1.0.0` sobre `main` | Tag creado desde `main` vía PR de `release/v1.0.0` a `main` |
 
 ---
 
@@ -218,6 +218,13 @@ revisa en cada reunión.
 | `0.6.0` | 2026-11-27 | `develop` | Informes e imagen médica |
 | `0.7.0` | 2026-12-04 | `develop` | Gestión, roles, auditoría y estadísticas |
 | `1.0.0` | 2026-12-11 | `release/v1.0.0` → `main` | Release candidate: integración total y manual de usuario |
+
+> **Única release del proyecto.** Al ser un proyecto académico con una sola
+> entrega de producción, la rama `release/v1.0.0` se abre en la Iteración 0 y
+> permanece congelada: solo recibe correcciones de `hotfix/*` y el hito H4. A
+> partir de ese momento `develop` queda libre para la siguiente iteración
+> mientras `release/v1.0.0` se estabiliza. El tag `v1.0.0` se corta en el
+> cierre de la Iteración 7, no antes.
 
 ---
 
