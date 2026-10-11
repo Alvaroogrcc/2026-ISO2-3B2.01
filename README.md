@@ -40,12 +40,12 @@ Arquitectura **cliente-servidor**, dando cabida a distintas aplicaciones cliente
 
 | Miembro | Responsabilidad |
 | --- | --- |
-| Álvaro García | |
-| Abraham Escalona | |
-| Víctor Bravo | |
-| Marcelino Izquierdo | |
-| Raúl Arroyo | |
-| Juan Zopeque | |
+| Álvaro García | Coordinador |
+| Abraham Escalona | Responsable de gestión de cinfugración |
+| Víctor Bravo | Arquitecto/Diseñador de interfaces |
+| Marcelino Izquierdo | Analista de requisitos y casos de uso |
+| Raúl Arroyo | Responsable de calidad |
+| Juan Zopeque |Responsable de IA |
 
 > La tabla de responsabilidades se completa durante la fase de Inicio del PUD,
 > en cuanto se repartan los casos de uso entre las iteraciones.
@@ -113,11 +113,10 @@ fuerza de ejecución controlada, no el sustituto de esas decisiones.
 
 ### Stack
 
-- **Java**, con **Eclipse** y **Visual Paradigm**
+- **Java**, con **Visual Studio** y **Visual Paradigm**
 - **Maven** en proyectos multimódulo
 - **Git** con estrategia de ramificación **Git Flow**
-- Agentes de soporte al desarrollo (IA): VS Code + GitHub Copilot Chat, OpenCode,
-  Antigravity, Claude Code, modelos locales vía Ollama o LM Studio
+- Agentes de soporte al desarrollo (IA): VS Code + OpenCode como LLM principal y Copilot como soporte.
 
 ---
 
