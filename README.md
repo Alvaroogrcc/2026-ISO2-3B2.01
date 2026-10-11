@@ -41,11 +41,11 @@ Arquitectura **cliente-servidor**, dando cabida a distintas aplicaciones cliente
 | Miembro | Responsabilidad |
 | --- | --- |
 | Álvaro García | Coordinador |
-| Abraham Escalona | Responsable de gestión de cinfugración |
+| Abraham Escalona | Responsable de gestión de configración |
 | Víctor Bravo | Arquitecto/Diseñador de interfaces |
 | Marcelino Izquierdo | Analista de requisitos y casos de uso |
 | Raúl Arroyo | Responsable de calidad |
-| Juan Zopeque |Responsable de IA |
+| Juan Zopeque | Responsable de IA |
 
 > La tabla de responsabilidades se completa durante la fase de Inicio del PUD,
 > en cuanto se repartan los casos de uso entre las iteraciones.
