@@ -23,3 +23,15 @@ Roles asignados a los miembros del equipo en la primera reunion:
 | **Raúl Arroyo Cañadas** | Responsable de calidad y pruebas |
 | **Juan Zopeque Ginés** | Responsable de IA |
 | **Abraham Escalona Seco de Herrera** | Responsable de gestión de configuración |
+
+## D-002 · Estructura Maven multimódulo
+Fecha: 19/10 · It. 0 · Acta: 19/10 · Issue: #12
+Contexto: hay dos aplicaciones, servidor y
+cliente, en un mismo repositorio.
+Decisión: pom padre radiodiagnostico con dos
+módulos: servidor y cliente.
+Alternativas: dos repositorios; un solo módulo.
+Motivo: un mvn verify construye todo y las
+versiones se fijan una vez en el padre.
+Consecuencias: cada módulo con su versión; al
+cambiar la del padre, actualizar <parent>.
