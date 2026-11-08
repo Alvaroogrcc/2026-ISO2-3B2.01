@@ -32,11 +32,11 @@ Fecha: 08/11/2026
 
 Se ha establecido el esfuerzo total para cada nivel de prioridad, con un máximo de 40 horas por semana de trabajo:
 
-- **Prioritarios:** 480 horas (12 semanas)
-- **Altos:** 240 horas (6 semanas)
-- **Medios y bajos:** 240 horas (6 semanas)
+- **Prioritarios:** 480 horas 
+- **Altos:** 240 horas 
+- **Medios y bajos:** 240 horas 
 
-El esfuerzo total del proyecto es de **960 horas** (24 semanas).
+El esfuerzo total del proyecto es de **960 horas** .
 
 ### 2. Criterios de asignación de horas
 
