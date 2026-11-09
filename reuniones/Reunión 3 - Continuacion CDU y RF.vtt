@@ -1,0 +1,2704 @@
+WEBVTT
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/9-0
+00:00:03.857 --> 00:00:05.777
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Ahora sí, hola.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/10-0
+00:00:04.737 --> 00:00:07.097
+<v JUAN ZOPEQUE GIN&#201;S>Ahora, chicos. Hola, buenas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/11-0
+00:00:06.657 --> 00:00:07.577
+<v V&#205;CTOR BRAVO ROJO>Nice.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/12-0
+00:00:06.977 --> 00:00:07.737
+<v MARCELINO IZQUIERDO MOLINA>One ***.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/13-0
+00:00:07.297 --> 00:00:08.697
+<v RA&#218;L ARROYO CA&#209;ADAS>For that one, chicos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/14-0
+00:00:12.257 --> 00:00:15.217
+<v &#193;LVARO GARC&#205;A C&#193;MARA>¿Entonces tenemos que cambiar qué vamos a
+hacer?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/15-0
+00:00:15.857 --> 00:00:17.337
+<v MARCELINO IZQUIERDO MOLINA>Lo de los casos de uso no era.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/16-0
+00:00:17.857 --> 00:00:20.403
+<v JUAN ZOPEQUE GIN&#201;S>Claro,
+vamos a empezar a analizar los casos de</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/16-1
+00:00:20.403 --> 00:00:22.137
+<v JUAN ZOPEQUE GIN&#201;S>uso para hacer la planificación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/18-0
+00:00:27.737 --> 00:00:28.297
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/17-0
+00:00:27.817 --> 00:00:28.177
+<v ABRAHAM ESCALONA SECO DE HERRERA>Okay.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/19-0
+00:00:28.537 --> 00:00:28.977
+<v V&#205;CTOR BRAVO ROJO>Para.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/20-0
+00:00:29.697 --> 00:00:31.537
+<v RA&#218;L ARROYO CA&#209;ADAS>Así que vamos a ir 1:1, vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/22-0
+00:00:32.857 --> 00:00:33.417
+<v JUAN ZOPEQUE GIN&#201;S>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/23-0
+00:00:32.857 --> 00:00:35.337
+<v V&#205;CTOR BRAVO ROJO>Miramos la prioridad entonces, a ver.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/21-0
+00:00:32.897 --> 00:00:33.297
+<v RA&#218;L ARROYO CA&#209;ADAS>Y.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/24-0
+00:00:39.737 --> 00:00:42.817
+<v V&#205;CTOR BRAVO ROJO>Primero y ya los hacemos los cosos de uso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/25-0
+00:00:44.457 --> 00:00:47.097
+<v JUAN ZOPEQUE GIN&#201;S>Pero para mirar la prioridad primero
+tienes que verlos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/27-0
+00:00:47.497 --> 00:00:49.577
+<v V&#205;CTOR BRAVO ROJO>Ya, pero lo de los requisitos, Juan.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/28-0
+00:00:52.177 --> 00:00:52.297
+<v JUAN ZOPEQUE GIN&#201;S>What?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/29-0
+00:00:52.617 --> 00:00:54.617
+<v V&#205;CTOR BRAVO ROJO>Que es la próxima la perdida rápido.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/30-0
+00:00:56.377 --> 00:00:58.137
+<v JUAN ZOPEQUE GIN&#201;S>Sin más prioridad ya de los requisitos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/33-0
+00:00:58.897 --> 00:01:01.137
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro, fuimos debatiendo la Víctor y yo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/34-0
+00:00:59.057 --> 00:01:03.097
+<v V&#205;CTOR BRAVO ROJO>Sí, pero hay que verla si está bien o qué,
+porque hay que.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/32-0
+00:00:59.817 --> 00:01:00.697
+<v &#193;LVARO GARC&#205;A C&#193;MARA>sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/31-0
+00:01:00.097 --> 00:01:00.697
+<v MARCELINO IZQUIERDO MOLINA>Mhm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/36-0
+00:01:04.617 --> 00:01:06.057
+<v V&#205;CTOR BRAVO ROJO>Ay, habrá que cambiar alguna.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/35-0
+00:01:05.417 --> 00:01:05.897
+<v ABRAHAM ESCALONA SECO DE HERRERA>Thank you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/37-0
+00:01:06.377 --> 00:01:09.017
+<v MARCELINO IZQUIERDO MOLINA>Esto lo hiciste después de que yo me
+fuera, no la última vez.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/38-0
+00:01:09.577 --> 00:01:09.897
+<v ABRAHAM ESCALONA SECO DE HERRERA>That.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/40-0
+00:01:09.737 --> 00:01:11.017
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, creo que sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/39-0
+00:01:10.017 --> 00:01:11.097
+<v RA&#218;L ARROYO CA&#209;ADAS>No es la verdad.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/41-0
+00:01:10.137 --> 00:01:11.657
+<v V&#205;CTOR BRAVO ROJO>Sí, no, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/42-0
+00:01:12.537 --> 00:01:12.817
+<v ABRAHAM ESCALONA SECO DE HERRERA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/43-0
+00:01:13.697 --> 00:01:15.097
+<v MARCELINO IZQUIERDO MOLINA>Bueno, porque no me sonaba.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/45-0
+00:01:18.177 --> 00:01:20.137
+<v V&#205;CTOR BRAVO ROJO>¿Vale la primera alta esa bien, no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/44-0
+00:01:18.217 --> 00:01:18.577
+<v ABRAHAM ESCALONA SECO DE HERRERA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/46-0
+00:01:21.497 --> 00:01:22.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, yo creo que sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/48-0
+00:01:24.217 --> 00:01:27.648
+<v &#193;LVARO GARC&#205;A C&#193;MARA>A ver,
+tenemos que seleccionar cuál es alta o,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/48-1
+00:01:27.648 --> 00:01:31.299
+<v &#193;LVARO GARC&#205;A C&#193;MARA>como mucho,
+ponerle una más que sea muy alta para</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/48-2
+00:01:31.299 --> 00:01:31.737
+<v &#193;LVARO GARC&#205;A C&#193;MARA>poder.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/49-0
+00:01:33.337 --> 00:01:33.897
+<v V&#205;CTOR BRAVO ROJO>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/51-0
+00:01:33.657 --> 00:01:37.417
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Como decir, vale,
+pues esta es la que cogemos para.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/50-0
+00:01:34.937 --> 00:01:35.297
+<v ABRAHAM ESCALONA SECO DE HERRERA>Book.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/52-0
+00:01:38.217 --> 00:01:38.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>E.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/54-0
+00:01:38.537 --> 00:01:41.257
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Para hacer la arquitectura lineal.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/53-0
+00:01:39.657 --> 00:01:40.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>Hello!</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/58-0
+00:01:43.177 --> 00:01:46.658
+<v V&#205;CTOR BRAVO ROJO>Vale,
+yo creo la primera o alta o muy alta y la</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/55-0
+00:01:45.257 --> 00:01:45.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>Say.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/58-1
+00:01:46.658 --> 00:01:48.617
+<v V&#205;CTOR BRAVO ROJO>segunda le metería a media.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/56-0
+00:01:47.017 --> 00:01:47.497
+<v ABRAHAM ESCALONA SECO DE HERRERA>Lista.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/57-0
+00:01:48.857 --> 00:01:49.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/59-0
+00:01:58.057 --> 00:02:00.697
+<v RA&#218;L ARROYO CA&#209;ADAS>Tipo, cambiarías algo visto así tal cual.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/60-0
+00:02:01.177 --> 00:02:06.238
+<v V&#205;CTOR BRAVO ROJO>De las prioridades, sí, como dice Álvaro,
+a lo mejor meterle alguna muy alta y</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/60-1
+00:02:06.238 --> 00:02:09.057
+<v V&#205;CTOR BRAVO ROJO>cambiar alguna de las prioridades de
+estas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/61-0
+00:02:11.577 --> 00:02:11.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>El.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/62-0
+00:02:12.537 --> 00:02:13.017
+<v V&#205;CTOR BRAVO ROJO>¿Sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/63-0
+00:02:13.617 --> 00:02:15.097
+<v RA&#218;L ARROYO CA&#209;ADAS>Como queráis.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/66-0
+00:02:14.537 --> 00:02:19.563
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Claro, porque hay muchas que son altas,
+pero o las bajaría al medio y dejaría a</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/64-0
+00:02:16.057 --> 00:02:16.937
+<v JUAN ZOPEQUE GIN&#201;S>Brand Brankilam.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/66-1
+00:02:19.563 --> 00:02:22.830
+<v &#193;LVARO GARC&#205;A C&#193;MARA>las altas,
+las que primero tengamos que implementar</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/66-2
+00:02:22.830 --> 00:02:25.657
+<v &#193;LVARO GARC&#205;A C&#193;MARA>para poder hacer la línea base del
+proyecto.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/67-0
+00:02:25.857 --> 00:02:28.082
+<v JUAN ZOPEQUE GIN&#201;S>Claro,
+a lo mejor podemos poner prioritarias</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/65-0
+00:02:26.297 --> 00:02:26.697
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/67-1
+00:02:28.082 --> 00:02:29.417
+<v JUAN ZOPEQUE GIN&#201;S>para que sean la base, ¿no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/68-0
+00:02:30.297 --> 00:02:32.817
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, en verde alta, prioritarias.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/70-0
+00:02:33.337 --> 00:02:34.697
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí, yo muy alta con eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/69-0
+00:02:33.577 --> 00:02:34.297
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Muy bien.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/72-0
+00:02:33.657 --> 00:02:37.497
+<v JUAN ZOPEQUE GIN&#201;S>Y las altas las dejamos como que también
+son importantes, pero no es lo básico.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/73-0
+00:02:38.737 --> 00:02:39.577
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Go bien.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/74-0
+00:02:39.097 --> 00:02:40.177
+<v RA&#218;L ARROYO CA&#209;ADAS>That was.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/75-0
+00:02:40.937 --> 00:02:43.737
+<v V&#205;CTOR BRAVO ROJO>Vale pues vamos una columna y la vamos
+cambiando el chino</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/76-0
+00:02:44.937 --> 00:02:45.257
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Hello.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/77-0
+00:02:44.977 --> 00:02:45.697
+<v JUAN ZOPEQUE GIN&#201;S>But...</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/80-0
+00:02:46.057 --> 00:02:48.535
+<v RA&#218;L ARROYO CA&#209;ADAS>Por ejemplo,
+la primera tiene que ser fundamental,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/78-0
+00:02:46.177 --> 00:02:46.497
+<v MARCELINO IZQUIERDO MOLINA>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/80-1
+00:02:48.535 --> 00:02:51.937
+<v RA&#218;L ARROYO CA&#209;ADAS>el sistema debe permitir al paciente
+consultar y gestionar las citas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/79-0
+00:02:49.697 --> 00:02:50.217
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/82-0
+00:02:50.137 --> 00:02:53.657
+<v V&#205;CTOR BRAVO ROJO>Sí, esa prioritaria, sino.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/81-0
+00:02:52.457 --> 00:02:52.937
+<v JUAN ZOPEQUE GIN&#201;S>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/84-0
+00:02:52.777 --> 00:02:56.467
+<v RA&#218;L ARROYO CA&#209;ADAS>Pero a lo mejor enviar al paciente
+notificaciones y recordatorios es</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/84-1
+00:02:56.467 --> 00:02:57.857
+<v RA&#218;L ARROYO CA&#209;ADAS>importante, pero no tanto.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/86-0
+00:02:58.217 --> 00:03:00.097
+<v V&#205;CTOR BRAVO ROJO>Claro, exacto, eso es lo que.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/85-0
+00:02:58.617 --> 00:02:59.297
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/87-0
+00:02:59.937 --> 00:03:04.035
+<v MARCELINO IZQUIERDO MOLINA>Si creo que esas funciones principales
+que te haga hacer la aplicación serán las</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/87-1
+00:03:04.035 --> 00:03:05.097
+<v MARCELINO IZQUIERDO MOLINA>primeras, supongo yo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/88-0
+00:03:05.657 --> 00:03:08.244
+<v RA&#218;L ARROYO CA&#209;ADAS>Vale, pues entonces la primera,
+por ejemplo,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/88-1
+00:03:08.244 --> 00:03:10.257
+<v RA&#218;L ARROYO CA&#209;ADAS>ponemos en vez de alta que ponemos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/89-0
+00:03:09.777 --> 00:03:11.737
+<v JUAN ZOPEQUE GIN&#201;S>¿Prioritaria, cuál es prioritaria?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/90-0
+00:03:11.257 --> 00:03:12.137
+<v V&#205;CTOR BRAVO ROJO>Priorita bien.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/91-0
+00:03:12.377 --> 00:03:17.980
+<v RA&#218;L ARROYO CA&#209;ADAS>Todavía, vale la segunda alta,
+el sistema deben permitir al paciente</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/91-1
+00:03:17.980 --> 00:03:20.417
+<v RA&#218;L ARROYO CA&#209;ADAS>consultar su historial o mail.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/92-0
+00:03:19.977 --> 00:03:21.897
+<v JUAN ZOPEQUE GIN&#201;S>Media, sí, yo lo dejaría en medio.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/95-0
+00:03:21.737 --> 00:03:26.617
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema le permite al paciente
+reportar incidencias, si eso lo bajo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/93-0
+00:03:22.377 --> 00:03:22.817
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/94-0
+00:03:25.457 --> 00:03:26.737
+<v V&#205;CTOR BRAVO ROJO>Es abajo, es hasta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/97-0
+00:03:26.457 --> 00:03:28.257
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, ya baja.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/96-0
+00:03:26.897 --> 00:03:27.737
+<v ABRAHAM ESCALONA SECO DE HERRERA>I'm back to you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/98-0
+00:03:28.977 --> 00:03:29.417
+<v JUAN ZOPEQUE GIN&#201;S>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/99-0
+00:03:30.777 --> 00:03:32.737
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema debe permitir al partido.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/100-0
+00:03:31.817 --> 00:03:35.137
+<v &#193;LVARO GARC&#205;A C&#193;MARA>De la segunda que habéis dicho alta,
+la dejáis así.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/102-0
+00:03:35.457 --> 00:03:39.457
+<v V&#205;CTOR BRAVO ROJO>Sí, yo la dejaba alta o la ponía media.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/101-0
+00:03:38.057 --> 00:03:38.697
+<v JUAN ZOPEQUE GIN&#201;S>¿Cuál cuál?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/103-0
+00:03:38.457 --> 00:03:41.681
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Pero a lo mejor la segunda,
+a lo mejor yo lo habría puesto en medio</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/103-1
+00:03:41.681 --> 00:03:42.297
+<v &#193;LVARO GARC&#205;A C&#193;MARA>más que nada.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/105-0
+00:03:42.937 --> 00:03:46.737
+<v RA&#218;L ARROYO CA&#209;ADAS>100 * 100% ya lo las notificaciones es lo
+importante porque luego.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/104-0
+00:03:44.257 --> 00:03:45.057
+<v V&#205;CTOR BRAVO ROJO>sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/106-0
+00:03:46.137 --> 00:03:46.697
+<v &#193;LVARO GARC&#205;A C&#193;MARA>A ver.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/107-0
+00:03:46.257 --> 00:03:48.057
+<v V&#205;CTOR BRAVO ROJO>A ver las notificaciones, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/110-0
+00:03:48.457 --> 00:03:54.134
+<v &#193;LVARO GARC&#205;A C&#193;MARA>A ver, hay mucha gente que le viene bien,
+pero teniendo en cuenta que la que la</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/110-1
+00:03:54.134 --> 00:03:57.256
+<v &#193;LVARO GARC&#205;A C&#193;MARA>propia persona puede acordarse de la
+fecha,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/110-2
+00:03:57.256 --> 00:04:03.217
+<v &#193;LVARO GARC&#205;A C&#193;MARA>yo creo que las notificaciones sería más
+media, o sea, no sería prioritaria. O sea,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/108-0
+00:04:01.697 --> 00:04:04.385
+<v JUAN ZOPEQUE GIN&#201;S>A ver,
+teniendo en cuenta que prioritaria es lo</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/110-3
+00:04:03.217 --> 00:04:07.617
+<v &#193;LVARO GARC&#205;A C&#193;MARA>yo creo que no vale, lo dejaría en alto,
+pero no prioritario.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/108-1
+00:04:04.385 --> 00:04:04.777
+<v JUAN ZOPEQUE GIN&#201;S>básico.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/112-0
+00:04:07.657 --> 00:04:08.377
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Eso sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/113-0
+00:04:07.937 --> 00:04:11.040
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro, por eso prioritario,
+hemos puesto la primera,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/109-0
+00:04:08.937 --> 00:04:09.377
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/111-0
+00:04:08.937 --> 00:04:09.657
+<v JUAN ZOPEQUE GIN&#201;S>No, claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/113-1
+00:04:11.040 --> 00:04:14.377
+<v RA&#218;L ARROYO CA&#209;ADAS>permitir consultor y gestionar lo ya las
+notificaciones.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/114-0
+00:04:12.697 --> 00:04:16.893
+<v JUAN ZOPEQUE GIN&#201;S>O en verdad sí puede ser media, en plan,
+como si es una funcionalidad,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/114-1
+00:04:16.893 --> 00:04:19.257
+<v JUAN ZOPEQUE GIN&#201;S>pero no es lo esencial de la aplicación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/115-0
+00:04:21.337 --> 00:04:21.897
+<v JUAN ZOPEQUE GIN&#201;S>¿Sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/116-0
+00:04:21.697 --> 00:04:22.497
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, lo veo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/117-0
+00:04:22.457 --> 00:04:22.977
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/118-0
+00:04:23.257 --> 00:04:25.949
+<v JUAN ZOPEQUE GIN&#201;S>En plan,
+podemos diseñar lo que sea lo primero de</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/118-1
+00:04:25.949 --> 00:04:30.202
+<v JUAN ZOPEQUE GIN&#201;S>la esta y luego ya añadir pues otras
+funcionalidades como que te avise y cosas</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/118-2
+00:04:30.202 --> 00:04:30.417
+<v JUAN ZOPEQUE GIN&#201;S>así.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/119-0
+00:04:31.337 --> 00:04:31.737
+<v ABRAHAM ESCALONA SECO DE HERRERA>Ja.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/120-0
+00:04:32.617 --> 00:04:33.377
+<v RA&#218;L ARROYO CA&#209;ADAS>There is.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/121-0
+00:04:34.057 --> 00:04:36.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿Cuál hay un asterisco?
+Ya lo miramos cuando.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/122-0
+00:04:38.097 --> 00:04:38.697
+<v RA&#218;L ARROYO CA&#209;ADAS>Come on.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/123-0
+00:04:39.497 --> 00:04:43.395
+<v ABRAHAM ESCALONA SECO DE HERRERA>Que le pongas un asterisco por ahí y
+ahora la revisamos cuando acabemos con</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/123-1
+00:04:43.395 --> 00:04:43.857
+<v ABRAHAM ESCALONA SECO DE HERRERA>nosotros.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/124-0
+00:04:44.857 --> 00:04:45.377
+<v JUAN ZOPEQUE GIN&#201;S>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/125-0
+00:04:47.017 --> 00:04:50.161
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema le permitía al paciente
+consultar información y recomendación</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/125-1
+00:04:50.161 --> 00:04:53.177
+<v RA&#218;L ARROYO CA&#209;ADAS>sobre sus pruebas de seguimiento y
+revisiones periódicas programadas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/127-0
+00:04:53.537 --> 00:04:57.537
+<v JUAN ZOPEQUE GIN&#201;S>Y esta la pondría alta porque esta la veo
+como una funcionalidad básica.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/126-0
+00:04:55.977 --> 00:04:56.337
+<v ABRAHAM ESCALONA SECO DE HERRERA>Okay.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/128-0
+00:04:58.257 --> 00:04:58.577
+<v ABRAHAM ESCALONA SECO DE HERRERA>Yep.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/129-0
+00:04:58.977 --> 00:04:59.297
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Well.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/130-0
+00:05:00.057 --> 00:05:04.078
+<v JUAN ZOPEQUE GIN&#201;S>La de consultar información en plan la de
+las recomendaciones, no tanto,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/130-1
+00:05:04.078 --> 00:05:06.777
+<v JUAN ZOPEQUE GIN&#201;S>pero la de consultar información,
+esa es básica.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/132-0
+00:05:09.417 --> 00:05:11.337
+<v JUAN ZOPEQUE GIN&#201;S>No, yo la pondría como alta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/131-0
+00:05:10.537 --> 00:05:11.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>Mm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/133-0
+00:05:11.897 --> 00:05:12.577
+<v V&#205;CTOR BRAVO ROJO>Yes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/134-0
+00:05:12.217 --> 00:05:13.177
+<v RA&#218;L ARROYO CA&#209;ADAS>Vale, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/135-0
+00:05:14.057 --> 00:05:18.503
+<v JUAN ZOPEQUE GIN&#201;S>O sea, debe poder, pues eso,
+pedir citas y eso, y luego también,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/135-1
+00:05:18.503 --> 00:05:20.897
+<v JUAN ZOPEQUE GIN&#201;S>pues consultar lo que le han dicho.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/136-0
+00:05:21.497 --> 00:05:21.977
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Two.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/142-0
+00:05:22.337 --> 00:05:25.654
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí,
+el sistema le permitir al médico percibir</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/138-0
+00:05:23.257 --> 00:05:24.697
+<v V&#205;CTOR BRAVO ROJO>Sí, bueno.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/137-0
+00:05:23.417 --> 00:05:23.737
+<v ABRAHAM ESCALONA SECO DE HERRERA>Yep.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/142-1
+00:05:25.654 --> 00:05:29.837
+<v RA&#218;L ARROYO CA&#209;ADAS>pruebas diagnosticadas,
+especificando indicación clínica,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/139-0
+00:05:26.217 --> 00:05:26.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/140-0
+00:05:27.617 --> 00:05:28.017
+<v ABRAHAM ESCALONA SECO DE HERRERA>Stop.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/141-0
+00:05:29.017 --> 00:05:29.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>O.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/142-2
+00:05:29.837 --> 00:05:32.217
+<v RA&#218;L ARROYO CA&#209;ADAS>justificar el nivel de prioridad.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/143-0
+00:05:33.017 --> 00:05:34.817
+<v V&#205;CTOR BRAVO ROJO>Yo esa la pondría prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/146-0
+00:05:34.577 --> 00:05:36.497
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Piensa con mi prioritario también, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/145-0
+00:05:34.897 --> 00:05:35.937
+<v JUAN ZOPEQUE GIN&#201;S>Sí, you one.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/144-0
+00:05:35.497 --> 00:05:35.777
+<v RA&#218;L ARROYO CA&#209;ADAS>It.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/147-0
+00:05:36.897 --> 00:05:37.617
+<v JUAN ZOPEQUE GIN&#201;S>Solitaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/148-0
+00:05:38.297 --> 00:05:38.617
+<v ABRAHAM ESCALONA SECO DE HERRERA>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/149-0
+00:05:41.497 --> 00:05:45.200
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema de permitir al médico
+programar pruebas de seguimiento</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/149-1
+00:05:45.200 --> 00:05:45.817
+<v RA&#218;L ARROYO CA&#209;ADAS>periódicas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/150-0
+00:05:47.017 --> 00:05:48.537
+<v V&#205;CTOR BRAVO ROJO>Y esta posca es igual.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/151-0
+00:05:47.617 --> 00:05:49.217
+<v JUAN ZOPEQUE GIN&#201;S>Prioritaria diría yo también no.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/152-0
+00:05:49.097 --> 00:05:50.177
+<v RA&#218;L ARROYO CA&#209;ADAS>También, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/153-0
+00:05:49.737 --> 00:05:51.857
+<v ABRAHAM ESCALONA SECO DE HERRERA>No, esta sería más alta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/154-0
+00:05:52.697 --> 00:05:53.177
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/155-0
+00:05:53.057 --> 00:05:53.577
+<v JUAN ZOPEQUE GIN&#201;S>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/156-0
+00:05:53.257 --> 00:05:54.017
+<v V&#205;CTOR BRAVO ROJO>Dugarensh.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/157-0
+00:05:54.457 --> 00:05:57.450
+<v ABRAHAM ESCALONA SECO DE HERRERA>Porque claro,
+puedes seguir programando citas,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/157-1
+00:05:57.450 --> 00:05:59.297
+<v ABRAHAM ESCALONA SECO DE HERRERA>pero no de manera automática.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/158-0
+00:05:59.297 --> 00:06:01.995
+<v JUAN ZOPEQUE GIN&#201;S>Pero no son citas,
+son pruebas de seguimiento.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/158-1
+00:06:01.995 --> 00:06:04.177
+<v JUAN ZOPEQUE GIN&#201;S>Ya se la veo como prioritaria en plan.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/159-0
+00:06:05.457 --> 00:06:07.617
+<v JUAN ZOPEQUE GIN&#201;S>Es como una funcionalidad de los médicos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/160-0
+00:06:06.697 --> 00:06:08.626
+<v V&#205;CTOR BRAVO ROJO>bueno,
+pero pone también generando</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/160-1
+00:06:08.626 --> 00:06:11.657
+<v V&#205;CTOR BRAVO ROJO>automáticamente la necesidad de futura
+cita, entonces.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/162-0
+00:06:10.937 --> 00:06:15.857
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro, pero tú piensas, pero es básico,
+no que puedas seguir haciendo pruebas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/163-0
+00:06:13.937 --> 00:06:17.734
+<v JUAN ZOPEQUE GIN&#201;S>Claro, o sea, es como un paciente,
+es como un paciente que necesita llevar</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/161-0
+00:06:14.177 --> 00:06:15.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>No, pero ahora mismo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/163-1
+00:06:17.734 --> 00:06:20.215
+<v JUAN ZOPEQUE GIN&#201;S>un tratamiento,
+pues el médico necesita poder ir</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/163-2
+00:06:20.215 --> 00:06:21.177
+<v JUAN ZOPEQUE GIN&#201;S>siguiéndolo, sabes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/165-0
+00:06:21.497 --> 00:06:25.871
+<v ABRAHAM ESCALONA SECO DE HERRERA>Ahora mismo la aplicación básico básico
+básico es que te puedas asignar una cita</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/165-1
+00:06:25.871 --> 00:06:27.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>y tú poder ir a la cita y saber cuándo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/164-0
+00:06:26.857 --> 00:06:27.337
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Three.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/166-0
+00:06:28.457 --> 00:06:28.937
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/167-0
+00:06:29.177 --> 00:06:30.537
+<v V&#205;CTOR BRAVO ROJO>Eso sí, eso sí, es verdad.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/168-0
+00:06:29.337 --> 00:06:33.137
+<v ABRAHAM ESCALONA SECO DE HERRERA>Automatizar ya siguiente cita, eso es.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/169-0
+00:06:31.697 --> 00:06:34.137
+<v MARCELINO IZQUIERDO MOLINA>Pero automatizar, automatizar es en extra,
+yo creo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/170-0
+00:06:34.857 --> 00:06:38.017
+<v ABRAHAM ESCALONA SECO DE HERRERA>Claro, o sea, no es importante.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/171-0
+00:06:37.337 --> 00:06:38.897
+<v MARCELINO IZQUIERDO MOLINA>Coincido con Coincido con Abraham.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/172-0
+00:06:40.857 --> 00:06:41.457
+<v &#193;LVARO GARC&#205;A C&#193;MARA>You do me.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/175-0
+00:06:41.777 --> 00:06:44.060
+<v JUAN ZOPEQUE GIN&#201;S>Para uno,
+pues déjala si quieres un asterisco y</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/173-0
+00:06:42.457 --> 00:06:42.857
+<v ABRAHAM ESCALONA SECO DE HERRERA>And.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/174-0
+00:06:43.417 --> 00:06:43.777
+<v RA&#218;L ARROYO CA&#209;ADAS>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/175-1
+00:06:44.060 --> 00:06:46.057
+<v JUAN ZOPEQUE GIN&#201;S>ahora discutimos y vamos con la siguiente.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/176-0
+00:06:46.857 --> 00:06:48.257
+<v RA&#218;L ARROYO CA&#209;ADAS>Ahora nos pegamos un poco.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/177-0
+00:06:48.497 --> 00:06:48.817
+<v JUAN ZOPEQUE GIN&#201;S>Two.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/179-0
+00:06:48.777 --> 00:06:49.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>Thank you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/178-0
+00:06:48.937 --> 00:06:49.337
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Got it.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/180-0
+00:06:53.977 --> 00:06:58.030
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema me permitirá al médico
+consultar el estado de tramitación de sus</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/180-1
+00:06:58.030 --> 00:07:02.457
+<v RA&#218;L ARROYO CA&#209;ADAS>solicitudes y la disponibilidad de agenda
+de realización, si esa media yo pondría.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/181-0
+00:07:03.897 --> 00:07:04.457
+<v RA&#218;L ARROYO CA&#209;ADAS>May.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/182-0
+00:07:03.897 --> 00:07:06.457
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿Agenda o cómo es que la agenda de
+realización?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/183-0
+00:07:04.897 --> 00:07:07.457
+<v JUAN ZOPEQUE GIN&#201;S>Bueno, yo esta la pondría prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/184-0
+00:07:10.137 --> 00:07:13.857
+<v RA&#218;L ARROYO CA&#209;ADAS>Necesita permitir al médico consultar el
+estado de tramitación de solicitudes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/185-0
+00:07:11.497 --> 00:07:16.265
+<v JUAN ZOPEQUE GIN&#201;S>Porque para organizarse los médicos,
+los médicos para organizarse tendrán que</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/185-1
+00:07:16.265 --> 00:07:20.177
+<v JUAN ZOPEQUE GIN&#201;S>tener la etapa su agenda, ¿sabes?
+Y sus calendarios y todo eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/187-0
+00:07:20.257 --> 00:07:23.297
+<v MARCELINO IZQUIERDO MOLINA>Si hubiera que la agenda la agenda la veo
+importante.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/186-0
+00:07:20.777 --> 00:07:21.577
+<v ABRAHAM ESCALONA SECO DE HERRERA>Carlo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/188-0
+00:07:23.377 --> 00:07:23.937
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/192-0
+00:07:24.537 --> 00:07:27.404
+<v V&#205;CTOR BRAVO ROJO>Ya, pero no tan prioritaria, o sea,
+prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/192-1
+00:07:27.404 --> 00:07:31.909
+<v V&#205;CTOR BRAVO ROJO>Yo creo que es lo que dice Abraham de que
+ahora mismo lo que tiene que hacer</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/189-0
+00:07:27.457 --> 00:07:27.777
+<v ABRAHAM ESCALONA SECO DE HERRERA>Up.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/190-0
+00:07:27.697 --> 00:07:28.057
+<v JUAN ZOPEQUE GIN&#201;S>That.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/191-0
+00:07:29.697 --> 00:07:31.177
+<v ABRAHAM ESCALONA SECO DE HERRERA>So.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/194-0
+00:07:31.417 --> 00:07:35.040
+<v JUAN ZOPEQUE GIN&#201;S>Pero esto esto yo lo que lo entiendo es
+como por ejemplo de las solicitudes,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/192-2
+00:07:31.909 --> 00:07:32.377
+<v V&#205;CTOR BRAVO ROJO>primero.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/194-1
+00:07:35.040 --> 00:07:37.393
+<v JUAN ZOPEQUE GIN&#201;S>por ejemplo,
+pues yo que sé si el médico necesita</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/194-2
+00:07:37.393 --> 00:07:39.558
+<v JUAN ZOPEQUE GIN&#201;S>hacer yo que sé una radiografía o lo que
+sea,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/194-3
+00:07:39.558 --> 00:07:41.817
+<v JUAN ZOPEQUE GIN&#201;S>pues poder tramitar las solicitudes y
+todo eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/193-0
+00:07:42.537 --> 00:07:43.017
+<v &#193;LVARO GARC&#205;A C&#193;MARA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/195-0
+00:07:42.657 --> 00:07:44.789
+<v V&#205;CTOR BRAVO ROJO>Ya,
+pero no es algo prioritario que tenga que</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/195-1
+00:07:44.789 --> 00:07:48.589
+<v V&#205;CTOR BRAVO ROJO>tener la aplicación ahora mismo, o sea,
+lo primero a lo mejor quizás es poder con</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/196-0
+00:07:46.777 --> 00:07:50.265
+<v JUAN ZOPEQUE GIN&#201;S>***** que no ogro,
+si el médico necesita hacer algo,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/195-2
+00:07:48.589 --> 00:07:49.377
+<v V&#205;CTOR BRAVO ROJO>las citas y todo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/196-1
+00:07:50.265 --> 00:07:51.977
+<v JUAN ZOPEQUE GIN&#201;S>tiene que poder hacer eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/197-0
+00:07:50.937 --> 00:07:54.280
+<v ABRAHAM ESCALONA SECO DE HERRERA>Ya,
+pero a lo mejor el médico no tiene en su</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/197-1
+00:07:54.280 --> 00:07:57.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>agenda personal en físico o en otro
+servicio.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/198-0
+00:07:57.977 --> 00:08:00.457
+<v JUAN ZOPEQUE GIN&#201;S>¿Ya, pero ya estás suponiendo, sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/199-0
+00:08:01.337 --> 00:08:03.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>Hombre,
+si hasta ahora lo ha estado haciendo y</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/200-0
+00:08:03.257 --> 00:08:06.201
+<v JUAN ZOPEQUE GIN&#201;S>A ver,
+si no marcalo con un asterisco y todas</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/199-1
+00:08:03.697 --> 00:08:06.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>vamos a meter una aplicación de alguna
+manera.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/200-1
+00:08:06.201 --> 00:08:08.057
+<v JUAN ZOPEQUE GIN&#201;S>estas se las preguntamos hoy.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/201-0
+00:08:08.657 --> 00:08:09.577
+<v MARCELINO IZQUIERDO MOLINA>También es verdad.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/202-0
+00:08:10.857 --> 00:08:14.417
+<v JUAN ZOPEQUE GIN&#201;S>Las que tengamos así discusión,
+las marcamos y se las preguntamos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/203-0
+00:08:15.377 --> 00:08:16.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>But...</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/204-0
+00:08:18.217 --> 00:08:19.977
+<v JUAN ZOPEQUE GIN&#201;S>De momento sí, bueno, deja la media.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/205-0
+00:08:20.217 --> 00:08:20.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/206-0
+00:08:22.297 --> 00:08:26.640
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema debe permitir al médico crear,
+editar y consultar informes clínicos,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/206-1
+00:08:26.640 --> 00:08:29.897
+<v RA&#218;L ARROYO CA&#209;ADAS>así como acceder imágenes médicas
+asociadas asus pacientes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/207-0
+00:08:30.297 --> 00:08:31.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>Esa prioridad.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/208-0
+00:08:32.097 --> 00:08:32.417
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/209-0
+00:08:32.657 --> 00:08:32.937
+<v JUAN ZOPEQUE GIN&#201;S>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/214-0
+00:08:34.537 --> 00:08:37.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>Pues eso, por ejemplo,
+son datos para los que están ahí. o.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/210-0
+00:08:35.017 --> 00:08:35.497
+<v RA&#218;L ARROYO CA&#209;ADAS>Total.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/213-0
+00:08:37.217 --> 00:08:38.177
+<v RA&#218;L ARROYO CA&#209;ADAS>Totalmente agua.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/211-0
+00:08:37.257 --> 00:08:37.617
+<v JUAN ZOPEQUE GIN&#201;S>Two.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/212-0
+00:08:37.537 --> 00:08:38.057
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/215-0
+00:08:42.137 --> 00:08:44.296
+<v RA&#218;L ARROYO CA&#209;ADAS>Luego,
+el sistema de permitir al médico</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/215-1
+00:08:44.296 --> 00:08:48.668
+<v RA&#218;L ARROYO CA&#209;ADAS>registrar la realización efectiva de la
+prueba y documentar cualquier incidencia</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/215-2
+00:08:48.668 --> 00:08:50.017
+<v RA&#218;L ARROYO CA&#209;ADAS>durante el procedimiento.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/216-0
+00:08:53.257 --> 00:08:54.697
+<v JUAN ZOPEQUE GIN&#201;S>Sí, yo la dejaría en alta, ¿no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/217-0
+00:08:57.297 --> 00:08:58.017
+<v &#193;LVARO GARC&#205;A C&#193;MARA>No busy.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/218-0
+00:09:02.617 --> 00:09:03.177
+<v RA&#218;L ARROYO CA&#209;ADAS>See?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/221-0
+00:09:06.057 --> 00:09:09.586
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema debe permitir al médico
+consultar estadísticas sobre sus</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/219-0
+00:09:06.217 --> 00:09:06.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/221-1
+00:09:09.586 --> 00:09:12.959
+<v RA&#218;L ARROYO CA&#209;ADAS>solicitudes, tiempos de espera,
+usos de recursos y adherencia de</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/221-2
+00:09:12.959 --> 00:09:14.257
+<v RA&#218;L ARROYO CA&#209;ADAS>pacientes al seguimiento.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/220-0
+00:09:14.617 --> 00:09:15.457
+<v ABRAHAM ESCALONA SECO DE HERRERA>Esa baja.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/222-0
+00:09:15.137 --> 00:09:18.137
+<v JUAN ZOPEQUE GIN&#201;S>Media, media baja, media baja diría.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/223-0
+00:09:15.177 --> 00:09:18.937
+<v V&#205;CTOR BRAVO ROJO>Media, media, incluso baja, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/226-0
+00:09:17.337 --> 00:09:21.097
+<v RA&#218;L ARROYO CA&#209;ADAS>Y yo la deja, yo la dejaré en medio,
+más bien, pues al final.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/225-0
+00:09:20.017 --> 00:09:20.817
+<v JUAN ZOPEQUE GIN&#201;S>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/224-0
+00:09:20.137 --> 00:09:20.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Yo good on you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/228-0
+00:09:22.217 --> 00:09:27.497
+<v RA&#218;L ARROYO CA&#209;ADAS>¿No es no es una funcionalidad básica,
+pero tampoco es tan **** ******, sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/227-0
+00:09:25.217 --> 00:09:25.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>Thank you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/229-0
+00:09:27.217 --> 00:09:29.457
+<v ABRAHAM ESCALONA SECO DE HERRERA>Es lo típico que la gente me gusta luego.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/230-0
+00:09:30.057 --> 00:09:30.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Exactamente.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/232-0
+00:09:30.457 --> 00:09:33.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>O sea, y hay que meter luego algo bajo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/231-0
+00:09:31.217 --> 00:09:31.777
+<v JUAN ZOPEQUE GIN&#201;S>Mm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/233-0
+00:09:33.537 --> 00:09:33.937
+<v JUAN ZOPEQUE GIN&#201;S>Two.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/234-0
+00:09:34.577 --> 00:09:37.100
+<v ABRAHAM ESCALONA SECO DE HERRERA>Bueno,
+lo vamos a poner con medio porque hemos</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/234-1
+00:09:37.100 --> 00:09:38.657
+<v ABRAHAM ESCALONA SECO DE HERRERA>puesto en medio, por ejemplo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/235-0
+00:09:39.657 --> 00:09:44.205
+<v ABRAHAM ESCALONA SECO DE HERRERA>El sistema debe permitir consultar el
+estado de transacción de solicitudes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/235-1
+00:09:44.205 --> 00:09:47.017
+<v ABRAHAM ESCALONA SECO DE HERRERA>O sea,
+qué más importante ver las solicitudes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/236-0
+00:09:47.857 --> 00:09:49.857
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿O tener estadísticas de ellas?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/238-0
+00:09:50.217 --> 00:09:53.017
+<v JUAN ZOPEQUE GIN&#201;S>Ver la solicitud es la más importante,
+diría yo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/237-0
+00:09:50.617 --> 00:09:51.177
+<v V&#205;CTOR BRAVO ROJO>Caron.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/239-0
+00:09:53.017 --> 00:09:53.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>Oh.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/240-0
+00:09:53.337 --> 00:09:53.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>O.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/241-0
+00:09:54.697 --> 00:09:56.577
+<v V&#205;CTOR BRAVO ROJO>Podemos ponerla en baja, sino esta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/242-0
+00:10:01.177 --> 00:10:04.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>Y luego que es estadística de.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/243-0
+00:10:05.257 --> 00:10:08.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>No tanto de algún médico,
+sino de administrativo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/245-0
+00:10:09.497 --> 00:10:13.030
+<v RA&#218;L ARROYO CA&#209;ADAS>Tipo se puede,
+se puede funcionar perfectamente sin esa</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/244-0
+00:10:09.697 --> 00:10:10.017
+<v V&#205;CTOR BRAVO ROJO>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/245-1
+00:10:13.030 --> 00:10:13.977
+<v RA&#218;L ARROYO CA&#209;ADAS>característica.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/247-0
+00:10:14.617 --> 00:10:14.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/249-0
+00:10:14.617 --> 00:10:15.457
+<v V&#205;CTOR BRAVO ROJO>sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/248-0
+00:10:14.857 --> 00:10:15.257
+<v RA&#218;L ARROYO CA&#209;ADAS>Sorry.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/250-0
+00:10:15.057 --> 00:10:16.857
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Say, so that's on that.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/253-0
+00:10:16.537 --> 00:10:20.737
+<v RA&#218;L ARROYO CA&#209;ADAS>Es Debe permitir al personal
+administrativo gestionar el ciclo de vida</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/253-1
+00:10:20.737 --> 00:10:24.937
+<v RA&#218;L ARROYO CA&#209;ADAS>de los pacientes en el sistema.
+Eso yo creo que es prioritaria de eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/252-0
+00:10:22.777 --> 00:10:24.577
+<v JUAN ZOPEQUE GIN&#201;S>Prioritaria, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/255-0
+00:10:24.897 --> 00:10:26.577
+<v MARCELINO IZQUIERDO MOLINA>Sí, es de 100% prioritario.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/254-0
+00:10:25.817 --> 00:10:26.297
+<v RA&#218;L ARROYO CA&#209;ADAS>Okay.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/256-0
+00:10:28.617 --> 00:10:32.742
+<v V&#205;CTOR BRAVO ROJO>Porque esto es para una vez que sale un
+paciente ya del hospital de plan quitarlo,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/256-1
+00:10:32.742 --> 00:10:36.818
+<v V&#205;CTOR BRAVO ROJO>como por así decirlo de la base de datos,
+como que ya no está ahí en el hospital,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/256-2
+00:10:36.818 --> 00:10:37.017
+<v V&#205;CTOR BRAVO ROJO>¿no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/257-0
+00:10:37.577 --> 00:10:38.897
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro y darle de alta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/259-0
+00:10:38.017 --> 00:10:40.537
+<v V&#205;CTOR BRAVO ROJO>Es lo que entendí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/258-0
+00:10:39.697 --> 00:10:40.217
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/260-0
+00:10:41.177 --> 00:10:41.457
+<v RA&#218;L ARROYO CA&#209;ADAS>It.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/261-0
+00:10:42.497 --> 00:10:42.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>Por qué.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/262-0
+00:10:43.017 --> 00:10:45.297
+<v RA&#218;L ARROYO CA&#209;ADAS>Luego el sistema debe permitir.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/263-0
+00:10:46.817 --> 00:10:48.777
+<v JUAN ZOPEQUE GIN&#201;S>Y eso lo pondría prioritaria también.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/264-0
+00:10:48.697 --> 00:10:49.457
+<v MARCELINO IZQUIERDO MOLINA>Yo también.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/265-0
+00:10:48.977 --> 00:10:49.417
+<v RA&#218;L ARROYO CA&#209;ADAS>Yes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/267-0
+00:10:51.537 --> 00:10:52.017
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Two.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/266-0
+00:10:51.737 --> 00:10:51.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>Oh.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/268-0
+00:10:52.697 --> 00:10:53.777
+<v MARCELINO IZQUIERDO MOLINA>Estará bien importante.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/272-0
+00:10:55.257 --> 00:10:57.817
+<v JUAN ZOPEQUE GIN&#201;S>Es que básicamente la organización del
+hospital y eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/270-0
+00:10:55.577 --> 00:10:56.617
+<v MARCELINO IZQUIERDO MOLINA>No tema nadie.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/269-0
+00:10:56.097 --> 00:10:56.417
+<v V&#205;CTOR BRAVO ROJO>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/271-0
+00:10:56.577 --> 00:10:57.457
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/273-0
+00:10:58.537 --> 00:10:58.937
+<v RA&#218;L ARROYO CA&#209;ADAS>Right.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/276-0
+00:10:58.777 --> 00:11:02.431
+<v MARCELINO IZQUIERDO MOLINA>Sobre todo para asignar si fuera
+reprogramación, reprogramación y tal,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/275-0
+00:11:00.457 --> 00:11:01.057
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/276-1
+00:11:02.431 --> 00:11:04.799
+<v MARCELINO IZQUIERDO MOLINA>a lo mejor no,
+pero así solo asignación ya es</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/276-2
+00:11:04.799 --> 00:11:05.417
+<v MARCELINO IZQUIERDO MOLINA>prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/277-0
+00:11:05.977 --> 00:11:07.377
+<v RA&#218;L ARROYO CA&#209;ADAS>Y la cancelación igual.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/278-0
+00:11:09.017 --> 00:11:11.977
+<v RA&#218;L ARROYO CA&#209;ADAS>Configurar y gestionar las agendas de los
+médicos para cada día.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/279-0
+00:11:12.937 --> 00:11:16.377
+<v RA&#218;L ARROYO CA&#209;ADAS>Pues hombre,
+se la pueden también gestionar ellos, ¿no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/280-0
+00:11:17.017 --> 00:11:17.417
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/284-0
+00:11:17.737 --> 00:11:24.057
+<v RA&#218;L ARROYO CA&#209;ADAS>O sea, no es, no sé, yo no la veo tanto,
+hombre, no sé si entre alto o medio.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/281-0
+00:11:20.057 --> 00:11:20.977
+<v V&#205;CTOR BRAVO ROJO>No es tanto.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/282-0
+00:11:21.577 --> 00:11:22.857
+<v JUAN ZOPEQUE GIN&#201;S>Sí, pon la media hora.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/283-0
+00:11:22.097 --> 00:11:23.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>No, I'm gonna.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/288-0
+00:11:22.137 --> 00:11:27.048
+<v V&#205;CTOR BRAVO ROJO>Que se pueda, se puede hacer después,
+no es una funcionalidad prioritaria ahora</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/285-0
+00:11:25.457 --> 00:11:25.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/287-0
+00:11:26.017 --> 00:11:27.257
+<v RA&#218;L ARROYO CA&#209;ADAS>Yo la pondría a media.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/289-0
+00:11:26.777 --> 00:11:28.657
+<v JUAN ZOPEQUE GIN&#201;S>Media alta, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/288-1
+00:11:27.048 --> 00:11:27.417
+<v V&#205;CTOR BRAVO ROJO>mismo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/290-0
+00:11:28.457 --> 00:11:29.617
+<v RA&#218;L ARROYO CA&#209;ADAS>Pero es igual, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/291-0
+00:11:30.577 --> 00:11:33.215
+<v RA&#218;L ARROYO CA&#209;ADAS>¿Vale,
+podemos poner también entre media o alta,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/293-0
+00:11:32.697 --> 00:11:34.937
+<v JUAN ZOPEQUE GIN&#201;S>Sí, déjalo así, vale, sí, me parece.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/291-1
+00:11:33.215 --> 00:11:33.377
+<v RA&#218;L ARROYO CA&#209;ADAS>no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/294-0
+00:11:34.817 --> 00:11:39.817
+<v ABRAHAM ESCALONA SECO DE HERRERA>Hombre, también sería alta, porque si no,
+los administrativos no saben cuándo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/295-0
+00:11:40.577 --> 00:11:41.617
+<v ABRAHAM ESCALONA SECO DE HERRERA>Así no las cosas.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/296-0
+00:11:41.577 --> 00:11:44.823
+<v JUAN ZOPEQUE GIN&#201;S>Ya ves que, por ejemplo,
+está se la hemos puesto a los médicos</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/296-1
+00:11:44.823 --> 00:11:48.997
+<v JUAN ZOPEQUE GIN&#201;S>media también en plan le vas a poner a
+los médicos media y otra gente que no son</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/296-2
+00:11:48.997 --> 00:11:50.337
+<v JUAN ZOPEQUE GIN&#201;S>los médicos media también.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/297-0
+00:11:50.417 --> 00:11:52.675
+<v ABRAHAM ESCALONA SECO DE HERRERA>Ya,
+pero el médico sí sabe cuándo puede tener</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/297-1
+00:11:52.675 --> 00:11:55.080
+<v ABRAHAM ESCALONA SECO DE HERRERA>una cita,
+pero administrativo no sabe cuándo los</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/299-0
+00:11:53.897 --> 00:11:58.034
+<v JUAN ZOPEQUE GIN&#201;S>Por eso tiene más sentidos que los
+médicos la tengan alta en lugar de media,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/297-2
+00:11:55.080 --> 00:11:55.817
+<v ABRAHAM ESCALONA SECO DE HERRERA>médicos pueden.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/299-1
+00:11:58.034 --> 00:12:01.257
+<v JUAN ZOPEQUE GIN&#201;S>porque son ellos los que mejor saben cómo
+organizarse, ¿no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/298-0
+00:11:59.297 --> 00:11:59.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>No, porque.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/300-0
+00:12:01.777 --> 00:12:03.921
+<v ABRAHAM ESCALONA SECO DE HERRERA>Ya,
+pero como los médicos saben cuando están</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/300-1
+00:12:03.921 --> 00:12:06.351
+<v ABRAHAM ESCALONA SECO DE HERRERA>ocupados, no le hace falta consultarlo.
+En cambio,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/300-2
+00:12:06.351 --> 00:12:09.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>los administrativos no tienen información
+sobre los médicos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/301-0
+00:12:12.377 --> 00:12:16.299
+<v JUAN ZOPEQUE GIN&#201;S>Pero no es que tengan información,
+es que ellos son los que la gestionan,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/301-1
+00:12:16.299 --> 00:12:16.617
+<v JUAN ZOPEQUE GIN&#201;S>sabes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/302-0
+00:12:21.537 --> 00:12:21.577
+<v ABRAHAM ESCALONA SECO DE HERRERA>Y.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/303-0
+00:12:28.537 --> 00:12:31.017
+<v RA&#218;L ARROYO CA&#209;ADAS>Yo lo dejaba así y vemos luego.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/304-0
+00:12:30.657 --> 00:12:31.657
+<v ABRAHAM ESCALONA SECO DE HERRERA>Sí, bye.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/307-0
+00:12:31.017 --> 00:12:35.297
+<v MARCELINO IZQUIERDO MOLINA>Yo la dejaría en media alta, pero no sé,
+yo la preguntaré también.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/305-0
+00:12:31.897 --> 00:12:32.417
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/306-0
+00:12:34.337 --> 00:12:34.737
+<v JUAN ZOPEQUE GIN&#201;S>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/309-0
+00:12:35.657 --> 00:12:37.017
+<v JUAN ZOPEQUE GIN&#201;S>Media alta, sí, por ahí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/308-0
+00:12:35.737 --> 00:12:36.097
+<v RA&#218;L ARROYO CA&#209;ADAS>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/310-0
+00:12:36.617 --> 00:12:37.017
+<v ABRAHAM ESCALONA SECO DE HERRERA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/313-0
+00:12:37.377 --> 00:12:41.351
+<v RA&#218;L ARROYO CA&#209;ADAS>El sistema debe permitir al proceso
+administrativo gestionar listas de espera,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/313-1
+00:12:41.351 --> 00:12:44.067
+<v RA&#218;L ARROYO CA&#209;ADAS>prioridades,
+asignación de huevos o de agenda. A ver,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/311-0
+00:12:43.417 --> 00:12:44.297
+<v ABRAHAM ESCALONA SECO DE HERRERA>Si alta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/313-2
+00:12:44.067 --> 00:12:45.777
+<v RA&#218;L ARROYO CA&#209;ADAS>esto es importante, esto así alto.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/314-0
+00:12:46.537 --> 00:12:48.217
+<v ABRAHAM ESCALONA SECO DE HERRERA>Como más optimización.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/312-0
+00:12:46.577 --> 00:12:46.937
+<v JUAN ZOPEQUE GIN&#201;S>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/315-0
+00:12:50.177 --> 00:12:50.537
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/316-0
+00:12:51.377 --> 00:12:56.137
+<v RA&#218;L ARROYO CA&#209;ADAS>Informes operativos sobre ocupación de
+agendas, tiempo de espera y cancelaciones.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/317-0
+00:12:55.817 --> 00:12:58.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>Esa baja, esa es igual que los ******.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/318-0
+00:12:58.817 --> 00:12:59.257
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/319-0
+00:12:59.417 --> 00:12:59.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/321-0
+00:12:59.937 --> 00:13:01.137
+<v MARCELINO IZQUIERDO MOLINA>¿Cuál habéis dicho, cuál habéis dicho?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/320-0
+00:13:00.537 --> 00:13:00.857
+<v RA&#218;L ARROYO CA&#209;ADAS>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/322-0
+00:13:01.977 --> 00:13:03.297
+<v RA&#218;L ARROYO CA&#209;ADAS>Esta es la 16.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/323-0
+00:13:02.097 --> 00:13:04.497
+<v V&#205;CTOR BRAVO ROJO>La 16.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/324-0
+00:13:04.577 --> 00:13:05.297
+<v JUAN ZOPEQUE GIN&#201;S>Vale, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/326-0
+00:13:05.377 --> 00:13:09.609
+<v MARCELINO IZQUIERDO MOLINA>Generar informes operativos sobre
+preocupación de agendas, sí,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/325-0
+00:13:06.857 --> 00:13:08.377
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Yo creo que la siguiente.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/326-1
+00:13:09.609 --> 00:13:10.617
+<v MARCELINO IZQUIERDO MOLINA>ya lo veo bien.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/328-0
+00:13:11.817 --> 00:13:14.177
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Y yo lo seguiste lo pondría en
+proyectoria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/327-0
+00:13:12.177 --> 00:13:12.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>YouTube</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/329-0
+00:13:20.057 --> 00:13:21.257
+<v MARCELINO IZQUIERDO MOLINA>La siguiente prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/330-0
+00:13:22.217 --> 00:13:22.737
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/333-0
+00:13:23.337 --> 00:13:26.976
+<v MARCELINO IZQUIERDO MOLINA>Configurar parámetros nuestro tipo de
+prueba de protocolo, sonarios,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/333-1
+00:13:26.976 --> 00:13:28.137
+<v MARCELINO IZQUIERDO MOLINA>políticas de citación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/331-0
+00:13:27.217 --> 00:13:27.457
+<v ABRAHAM ESCALONA SECO DE HERRERA>O.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/332-0
+00:13:27.577 --> 00:13:28.857
+<v JUAN ZOPEQUE GIN&#201;S>Sí, prioritario.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/334-0
+00:13:31.817 --> 00:13:32.937
+<v MARCELINO IZQUIERDO MOLINA>Parámetros nuestros.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/335-0
+00:13:39.457 --> 00:13:39.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/337-0
+00:13:40.897 --> 00:13:44.097
+<v MARCELINO IZQUIERDO MOLINA>Claro, política de intención, horarios,
+eso es importante.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/336-0
+00:13:43.737 --> 00:13:44.017
+<v RA&#218;L ARROYO CA&#209;ADAS>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/338-0
+00:13:44.537 --> 00:13:45.097
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/340-0
+00:13:45.497 --> 00:13:48.096
+<v RA&#218;L ARROYO CA&#209;ADAS>Gestionar usuarios,
+roles y permisos de acceso,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/340-1
+00:13:48.096 --> 00:13:49.937
+<v RA&#218;L ARROYO CA&#209;ADAS>si yo también pondría prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/339-0
+00:13:49.017 --> 00:13:49.137
+<v ABRAHAM ESCALONA SECO DE HERRERA>You?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/341-0
+00:13:49.257 --> 00:13:50.537
+<v MARCELINO IZQUIERDO MOLINA>Sí, también prioritario.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/342-0
+00:13:49.817 --> 00:13:51.217
+<v JUAN ZOPEQUE GIN&#201;S>Realitario, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/343-0
+00:13:57.097 --> 00:14:01.457
+<v RA&#218;L ARROYO CA&#209;ADAS>Registrar pistas de auditoría de
+actividades y acceso a datos clínicos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/345-0
+00:14:07.337 --> 00:14:10.297
+<v JUAN ZOPEQUE GIN&#201;S>¿Ya dejaría alta, casi prioritaria, no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/344-0
+00:14:09.577 --> 00:14:10.017
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/347-0
+00:14:11.017 --> 00:14:15.057
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí, hombre, yo no veo tan prioritaria,
+pero está así.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/346-0
+00:14:11.377 --> 00:14:11.777
+<v &#193;LVARO GARC&#205;A C&#193;MARA>What?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/348-0
+00:14:13.817 --> 00:14:16.857
+<v V&#205;CTOR BRAVO ROJO>No tan prioritaria, más alta y esta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/349-0
+00:14:17.337 --> 00:14:17.737
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/350-0
+00:14:17.697 --> 00:14:19.857
+<v JUAN ZOPEQUE GIN&#201;S>¿Es que no es acceso a datos clinicos?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/351-0
+00:14:22.937 --> 00:14:24.497
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, yo creo que.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/353-0
+00:14:22.977 --> 00:14:26.857
+<v JUAN ZOPEQUE GIN&#201;S>No, déjala en alta y si no,
+pues le preguntamos luego.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/352-0
+00:14:25.017 --> 00:14:25.417
+<v ABRAHAM ESCALONA SECO DE HERRERA>Pick.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/354-0
+00:14:27.657 --> 00:14:27.977
+<v RA&#218;L ARROYO CA&#209;ADAS>Mhm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/355-0
+00:14:29.577 --> 00:14:31.617
+<v RA&#218;L ARROYO CA&#209;ADAS>Le ponemos así para cortármelo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/357-0
+00:14:32.457 --> 00:14:36.257
+<v RA&#218;L ARROYO CA&#209;ADAS>Sistema de integrarse con otros sistemas
+hospitalarios.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/356-0
+00:14:32.537 --> 00:14:33.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>Santa.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/359-0
+00:14:36.577 --> 00:14:38.017
+<v JUAN ZOPEQUE GIN&#201;S>Yo estaría prioritariano.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/358-0
+00:14:36.937 --> 00:14:37.577
+<v V&#205;CTOR BRAVO ROJO>Media.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/360-0
+00:14:37.977 --> 00:14:38.297
+<v ABRAHAM ESCALONA SECO DE HERRERA>Tú.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/361-0
+00:14:38.057 --> 00:14:40.828
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí, me dio, o sea,
+primero lo que es la aplicación en</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/361-1
+00:14:40.828 --> 00:14:43.137
+<v RA&#218;L ARROYO CA&#209;ADAS>Independencia,
+primero que es la aplicación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/363-0
+00:14:42.377 --> 00:14:44.419
+<v V&#205;CTOR BRAVO ROJO>Claro,
+primero lo que es la aplicación que tenga</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/363-1
+00:14:44.419 --> 00:14:46.337
+<v V&#205;CTOR BRAVO ROJO>las funciones básicas y luego ya lo
+integras.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/364-0
+00:14:45.017 --> 00:14:47.057
+<v RA&#218;L ARROYO CA&#209;ADAS>Quiero ya conectarlo con lo demás, sabes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/362-0
+00:14:46.217 --> 00:14:46.937
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/365-0
+00:14:47.177 --> 00:14:47.337
+<v ABRAHAM ESCALONA SECO DE HERRERA>I.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/366-0
+00:14:49.577 --> 00:14:52.897
+<v RA&#218;L ARROYO CA&#209;ADAS>Estadísticas y esto lo mismo baja.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/367-0
+00:14:53.697 --> 00:14:54.257
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/368-0
+00:14:53.977 --> 00:14:56.337
+<v RA&#218;L ARROYO CA&#209;ADAS>Te va a generar estadísticas y cosas,
+tú sabes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/369-0
+00:14:56.897 --> 00:14:57.297
+<v JUAN ZOPEQUE GIN&#201;S>Team.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/370-0
+00:14:57.497 --> 00:14:57.817
+<v ABRAHAM ESCALONA SECO DE HERRERA>Nice.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/372-0
+00:14:58.497 --> 00:15:01.297
+<v RA&#218;L ARROYO CA&#209;ADAS>Pues ahora a partir de esto para hacer
+pasos de uso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/371-0
+00:14:59.577 --> 00:14:59.617
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/373-0
+00:15:03.017 --> 00:15:04.697
+<v RA&#218;L ARROYO CA&#209;ADAS>¿Qué sería un caso de uso por requisito?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/375-0
+00:15:05.177 --> 00:15:07.097
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, puso que uno, uno.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/378-0
+00:15:05.297 --> 00:15:10.499
+<v V&#205;CTOR BRAVO ROJO>Sí, podemos poner que los plan,
+los primeros casos de uso sean en plan</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/374-0
+00:15:06.177 --> 00:15:06.617
+<v JUAN ZOPEQUE GIN&#201;S>Two.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/378-1
+00:15:10.499 --> 00:15:12.697
+<v V&#205;CTOR BRAVO ROJO>los que tienen prioridad alta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/376-0
+00:15:10.937 --> 00:15:11.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>Es.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/377-0
+00:15:12.457 --> 00:15:12.617
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/379-0
+00:15:13.417 --> 00:15:13.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Got it.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/381-0
+00:15:13.857 --> 00:15:15.897
+<v V&#205;CTOR BRAVO ROJO>Hay es prioritaria.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/380-0
+00:15:13.897 --> 00:15:14.457
+<v JUAN ZOPEQUE GIN&#201;S>Mm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/382-0
+00:15:16.377 --> 00:15:16.857
+<v ABRAHAM ESCALONA SECO DE HERRERA>Call.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/383-0
+00:15:16.457 --> 00:15:17.657
+<v RA&#218;L ARROYO CA&#209;ADAS>vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/386-0
+00:15:18.737 --> 00:15:21.070
+<v V&#205;CTOR BRAVO ROJO>¿Sabes?
+Porque son los que tenemos que hacer</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/385-0
+00:15:18.817 --> 00:15:20.537
+<v RA&#218;L ARROYO CA&#209;ADAS>O sea, por ejemplo, este.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/384-0
+00:15:20.137 --> 00:15:20.617
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/388-0
+00:15:20.217 --> 00:15:26.137
+<v MARCELINO IZQUIERDO MOLINA>¿Lo de lo de lo de unificar los casos de
+no se puede hacer entonces o sí?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/386-1
+00:15:21.070 --> 00:15:22.937
+<v V&#205;CTOR BRAVO ROJO>primero en las primeras iteraciones.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/387-0
+00:15:23.177 --> 00:15:23.817
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/389-0
+00:15:26.857 --> 00:15:27.217
+<v ABRAHAM ESCALONA SECO DE HERRERA>Este.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/390-0
+00:15:28.537 --> 00:15:32.657
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí, pero yo qué sé, tío, no sé si claro,
+no.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/394-0
+00:15:30.857 --> 00:15:36.251
+<v JUAN ZOPEQUE GIN&#201;S>Es que luego también para planificación
+tenemos que ver cómo nos sale mejor,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/394-1
+00:15:36.251 --> 00:15:40.033
+<v JUAN ZOPEQUE GIN&#201;S>si implementar primero los que tengan
+prioridad alta,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/394-2
+00:15:40.033 --> 00:15:45.497
+<v JUAN ZOPEQUE GIN&#201;S>si a lo mejor implementarlo por grupos,
+en plan primero los médicos, ¿sabéis?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/391-0
+00:15:41.057 --> 00:15:41.897
+<v MARCELINO IZQUIERDO MOLINA>vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/393-0
+00:15:45.937 --> 00:15:46.657
+<v MARCELINO IZQUIERDO MOLINA>Okey, okey.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/392-0
+00:15:46.137 --> 00:15:46.377
+<v RA&#218;L ARROYO CA&#209;ADAS>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/396-0
+00:15:48.857 --> 00:15:51.393
+<v JUAN ZOPEQUE GIN&#201;S>Luego tenemos que hacer como los
+ejercicios de clase,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/396-1
+00:15:51.393 --> 00:15:54.257
+<v JUAN ZOPEQUE GIN&#201;S>ir viendo a ver cuál nos sale menos horas
+cuando sale mejor.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/395-0
+00:15:54.297 --> 00:15:54.777
+<v ABRAHAM ESCALONA SECO DE HERRERA>Thank you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/397-0
+00:15:54.657 --> 00:15:56.377
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Claro, eso es la planificación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/398-0
+00:15:56.817 --> 00:15:57.257
+<v JUAN ZOPEQUE GIN&#201;S>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/399-0
+00:15:57.977 --> 00:16:00.017
+<v MARCELINO IZQUIERDO MOLINA>Mira eso viene bien hasta practicar y
+todo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/400-0
+00:16:00.617 --> 00:16:00.977
+<v ABRAHAM ESCALONA SECO DE HERRERA>Good.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/401-0
+00:16:00.977 --> 00:16:01.257
+<v JUAN ZOPEQUE GIN&#201;S>Mhm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/402-0
+00:16:02.617 --> 00:16:03.017
+<v ABRAHAM ESCALONA SECO DE HERRERA>Today.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/403-0
+00:16:03.057 --> 00:16:07.857
+<v RA&#218;L ARROYO CA&#209;ADAS>Pues entonces vamos haciéndolos uno,
+uno de más prioridad, menos prioridad.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/405-0
+00:16:08.057 --> 00:16:09.257
+<v V&#205;CTOR BRAVO ROJO>T, you know.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/404-0
+00:16:08.697 --> 00:16:09.177
+<v ABRAHAM ESCALONA SECO DE HERRERA>Escucho.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/408-0
+00:16:10.457 --> 00:16:14.047
+<v JUAN ZOPEQUE GIN&#201;S>Pero eso es lo que digo,
+eso es lo que hay que mirar,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/407-0
+00:16:10.537 --> 00:16:11.577
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, yo digo, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/406-0
+00:16:11.057 --> 00:16:11.417
+<v ABRAHAM ESCALONA SECO DE HERRERA>So.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/408-1
+00:16:14.047 --> 00:16:15.377
+<v JUAN ZOPEQUE GIN&#201;S>cómo nos sale mejor.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/409-0
+00:16:14.937 --> 00:16:19.097
+<v V&#205;CTOR BRAVO ROJO>Claro, pero primero lo ponemos,
+tenemos que hacerlo más prioritarios.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/411-0
+00:16:19.817 --> 00:16:20.977
+<v RA&#218;L ARROYO CA&#209;ADAS>Close, Lucy.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/410-0
+00:16:19.857 --> 00:16:20.257
+<v MARCELINO IZQUIERDO MOLINA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/412-0
+00:16:22.497 --> 00:16:22.777
+<v ABRAHAM ESCALONA SECO DE HERRERA>Mhm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/413-0
+00:16:23.737 --> 00:16:26.977
+<v RA&#218;L ARROYO CA&#209;ADAS>Son los primeros que tendríamos que hacer,
+luego ya ir bajando.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/414-0
+00:16:27.577 --> 00:16:27.617
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/415-0
+00:16:27.577 --> 00:16:27.897
+<v V&#205;CTOR BRAVO ROJO>Hmm.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/416-0
+00:16:28.417 --> 00:16:30.177
+<v RA&#218;L ARROYO CA&#209;ADAS>Pero ya son prioritarios.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/417-0
+00:16:28.417 --> 00:16:31.212
+<v JUAN ZOPEQUE GIN&#201;S>A ver, en plan,
+las iteraciones las tenemos que ir</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/417-1
+00:16:31.212 --> 00:16:33.897
+<v JUAN ZOPEQUE GIN&#201;S>haciendo según como digamos en la
+planificación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/419-0
+00:16:37.257 --> 00:16:41.236
+<v V&#205;CTOR BRAVO ROJO>Ya, pero no vas a hacer un caso,
+pero es como dice Moisés,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/418-0
+00:16:37.537 --> 00:16:38.097
+<v JUAN ZOPEQUE GIN&#201;S>Sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/419-1
+00:16:41.236 --> 00:16:45.417
+<v V&#205;CTOR BRAVO ROJO>es lo plan el cliente, por ejemplo,
+lo primero no quiere ver.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/423-0
+00:16:46.657 --> 00:16:50.174
+<v V&#205;CTOR BRAVO ROJO>Lo más fácil, sabes,
+quiere ver algo que esté,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/420-0
+00:16:47.017 --> 00:16:47.417
+<v ABRAHAM ESCALONA SECO DE HERRERA>Estoy.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/421-0
+00:16:49.897 --> 00:16:51.137
+<v RA&#218;L ARROYO CA&#209;ADAS>Al cliente lo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/423-1
+00:16:50.174 --> 00:16:53.017
+<v V&#205;CTOR BRAVO ROJO>que sea como cosas importantes, claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/424-0
+00:16:51.937 --> 00:16:55.028
+<v MARCELINO IZQUIERDO MOLINA>Lo que sea importante,
+el que el que sea fácil o difícil da</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/425-0
+00:16:52.137 --> 00:16:54.772
+<v JUAN ZOPEQUE GIN&#201;S>Ya,
+pues eso lo que hay que mirar también</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/422-0
+00:16:52.177 --> 00:16:52.777
+<v RA&#218;L ARROYO CA&#209;ADAS>Lo que yo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/425-1
+00:16:54.772 --> 00:16:58.977
+<v JUAN ZOPEQUE GIN&#201;S>cuando hagamos la planificación,
+pues qué queremos primero, sabes.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/424-1
+00:16:55.028 --> 00:16:55.337
+<v MARCELINO IZQUIERDO MOLINA>igual.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/426-0
+00:16:59.097 --> 00:17:01.919
+<v V&#205;CTOR BRAVO ROJO>Claro,
+pues los requisitos que hemos puesto como</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/427-0
+00:16:59.937 --> 00:17:02.379
+<v JUAN ZOPEQUE GIN&#201;S>Además,
+ten en cuenta que la planificación,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/426-1
+00:17:01.919 --> 00:17:04.857
+<v V&#205;CTOR BRAVO ROJO>los requisitos que hemos puesto como
+prioritarios.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/427-1
+00:17:02.379 --> 00:17:06.097
+<v JUAN ZOPEQUE GIN&#201;S>la planificación se hace a partir de la
+línea base, plan el resto.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/428-0
+00:17:05.137 --> 00:17:08.226
+<v RA&#218;L ARROYO CA&#209;ADAS>Oye,
+los casos de uso según el orden que</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/428-1
+00:17:08.226 --> 00:17:11.917
+<v RA&#218;L ARROYO CA&#209;ADAS>tengan tipo 1234,
+es por prioridad o suda *****,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/428-2
+00:17:11.917 --> 00:17:12.897
+<v RA&#218;L ARROYO CA&#209;ADAS>puedes poner.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/429-0
+00:17:12.617 --> 00:17:15.737
+<v ABRAHAM ESCALONA SECO DE HERRERA>So, I want.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/431-0
+00:17:16.337 --> 00:17:18.642
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí,
+vamos que los podemos poner en el orden</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/430-0
+00:17:17.097 --> 00:17:18.057
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí, seguro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/431-1
+00:17:18.642 --> 00:17:22.257
+<v RA&#218;L ARROYO CA&#209;ADAS>que queramos y ya luego vemos cómo los
+queremos hacer, en qué orden.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/432-0
+00:17:22.697 --> 00:17:23.297
+<v JUAN ZOPEQUE GIN&#201;S>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/433-0
+00:17:23.217 --> 00:17:23.577
+<v ABRAHAM ESCALONA SECO DE HERRERA>So.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/435-0
+00:17:24.497 --> 00:17:27.208
+<v RA&#218;L ARROYO CA&#209;ADAS>Vale,
+lo exponemos y luego ya nosotros vemos</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/434-0
+00:17:26.017 --> 00:17:26.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿Dónde?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/435-1
+00:17:27.208 --> 00:17:29.257
+<v RA&#218;L ARROYO CA&#209;ADAS>cuál hacemos primero cuál después.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/436-0
+00:17:30.377 --> 00:17:33.337
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿Los pasos de uso saben como ISUS, no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/437-0
+00:17:34.937 --> 00:17:35.457
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/438-0
+00:17:37.577 --> 00:17:38.537
+<v ABRAHAM ESCALONA SECO DE HERRERA>Pues.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/439-0
+00:17:40.217 --> 00:17:42.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>Supongo que habrá etiquetas o flags.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/440-0
+00:17:43.577 --> 00:17:46.857
+<v ABRAHAM ESCALONA SECO DE HERRERA>Para cada ISU y lo podemos clasificar por
+prioritario medival.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/441-0
+00:17:49.817 --> 00:17:51.337
+<v ABRAHAM ESCALONA SECO DE HERRERA>Ir a filtrar o ordenar.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/442-0
+00:17:53.977 --> 00:17:54.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>Y.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/443-0
+00:17:55.617 --> 00:17:59.657
+<v RA&#218;L ARROYO CA&#209;ADAS>Pero los dejamos también reflejados en lo
+que es la wiki antes de no.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/444-0
+00:18:02.977 --> 00:18:04.217
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿Tú crees?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/445-0
+00:18:06.257 --> 00:18:06.937
+<v RA&#218;L ARROYO CA&#209;ADAS>Claro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/447-0
+00:18:07.257 --> 00:18:11.337
+<v V&#205;CTOR BRAVO ROJO>O en la wiki o en eso que ha dicho Álvaro
+de.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/446-0
+00:18:07.737 --> 00:18:08.777
+<v ABRAHAM ESCALONA SECO DE HERRERA>Repetitiva.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/448-0
+00:18:12.857 --> 00:18:18.617
+<v V&#205;CTOR BRAVO ROJO>¿Del punto Yiha Ysue,
+y ahí están los casos de Usu, sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/449-0
+00:18:18.137 --> 00:18:20.577
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Ahora tenemos la plantilla de caso de
+usos.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/450-0
+00:18:21.737 --> 00:18:21.817
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/451-0
+00:18:24.697 --> 00:18:27.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>En la pestaña ISUS hay que habría que
+ponerlo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/452-0
+00:18:27.977 --> 00:18:30.344
+<v V&#205;CTOR BRAVO ROJO>Vale,
+pues entonces hacemos ahí donde ha dicho</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/452-1
+00:18:30.344 --> 00:18:30.697
+<v V&#205;CTOR BRAVO ROJO>Álvaro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/453-0
+00:18:30.737 --> 00:18:34.457
+<v RA&#218;L ARROYO CA&#209;ADAS>Vale, pues aquí claro,
+dejamos sobre los requisitos funcionales.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/454-0
+00:18:34.537 --> 00:18:38.084
+<v V&#205;CTOR BRAVO ROJO>Sí, deja eso por si acaso, si no,
+luego se lo preguntamos y lo ponemos aquí</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/454-1
+00:18:38.084 --> 00:18:38.457
+<v V&#205;CTOR BRAVO ROJO>también.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/455-0
+00:18:38.657 --> 00:18:39.217
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/456-0
+00:18:40.537 --> 00:18:40.577
+<v ABRAHAM ESCALONA SECO DE HERRERA>O.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/457-0
+00:18:44.537 --> 00:18:45.257
+<v ABRAHAM ESCALONA SECO DE HERRERA>A ver.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/458-0
+00:18:46.217 --> 00:18:48.057
+<v V&#205;CTOR BRAVO ROJO>No, dale a Raúl a Code.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/459-0
+00:18:48.897 --> 00:18:50.217
+<v RA&#218;L ARROYO CA&#209;ADAS>En lo de Vale así.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/460-0
+00:18:51.297 --> 00:18:51.977
+<v V&#205;CTOR BRAVO ROJO>BIP.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/461-0
+00:18:55.337 --> 00:18:55.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>Y.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/462-0
+00:18:59.977 --> 00:19:00.497
+<v V&#205;CTOR BRAVO ROJO>Ahí está.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/463-0
+00:19:04.057 --> 00:19:05.177
+<v ABRAHAM ESCALONA SECO DE HERRERA>¿Qué queda por hacer más?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/464-0
+00:19:09.257 --> 00:19:12.137
+<v JUAN ZOPEQUE GIN&#201;S>No hablo de los casos de uso y la
+planificación.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/465-0
+00:19:13.457 --> 00:19:14.337
+<v MARCELINO IZQUIERDO MOLINA>Pero eso era ahora.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/466-0
+00:19:13.737 --> 00:19:14.417
+<v ABRAHAM ESCALONA SECO DE HERRERA>Okay.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/467-0
+00:19:16.617 --> 00:19:17.017
+<v JUAN ZOPEQUE GIN&#201;S>Yeah.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/468-0
+00:19:19.537 --> 00:19:24.657
+<v MARCELINO IZQUIERDO MOLINA>A ver, no sé porque a lo mejor, a ver,
+estos requisitos no.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/469-0
+00:19:22.537 --> 00:19:25.417
+<v RA&#218;L ARROYO CA&#209;ADAS>Yo diría como Juan que dijo que solo hay
+que hacerlo de la izquierda.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/470-0
+00:19:26.577 --> 00:19:27.057
+<v MARCELINO IZQUIERDO MOLINA>¿Cómo?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/471-0
+00:19:26.737 --> 00:19:27.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>Hola.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/472-0
+00:19:27.017 --> 00:19:29.657
+<v JUAN ZOPEQUE GIN&#201;S>A mí es que me suena eso que dijo de
+razón.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/473-0
+00:19:30.337 --> 00:19:32.777
+<v RA&#218;L ARROYO CA&#209;ADAS>Tampoco nos ha ido, nos ha dicho como tal.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/475-0
+00:19:34.977 --> 00:19:36.537
+<v ABRAHAM ESCALONA SECO DE HERRERA>Es un caso de uso por.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/474-0
+00:19:35.577 --> 00:19:36.177
+<v V&#205;CTOR BRAVO ROJO>Y ya di.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/477-0
+00:19:37.257 --> 00:19:41.097
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Es un caso de eso por lo por criterio,
+por requisito, perdón.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/476-0
+00:19:37.817 --> 00:19:38.217
+<v V&#205;CTOR BRAVO ROJO>Play.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/479-0
+00:19:40.617 --> 00:19:43.021
+<v V&#205;CTOR BRAVO ROJO>Un requisito,
+un caso de uso y un caso de uso,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/480-0
+00:19:40.697 --> 00:19:43.737
+<v ABRAHAM ESCALONA SECO DE HERRERA>Vale, pues dejármelo a mí y luego lo doy.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/478-0
+00:19:41.257 --> 00:19:41.537
+<v RA&#218;L ARROYO CA&#209;ADAS>It.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/479-1
+00:19:43.021 --> 00:19:43.737
+<v V&#205;CTOR BRAVO ROJO>una iteración.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/481-0
+00:19:44.897 --> 00:19:45.417
+<v ABRAHAM ESCALONA SECO DE HERRERA>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/482-0
+00:19:57.817 --> 00:19:58.937
+<v V&#205;CTOR BRAVO ROJO>sí, eso sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/483-0
+00:19:59.177 --> 00:19:59.897
+<v ABRAHAM ESCALONA SECO DE HERRERA>Problemas no.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/485-0
+00:20:01.657 --> 00:20:03.257
+<v V&#205;CTOR BRAVO ROJO>Sí, creo que sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/484-0
+00:20:02.137 --> 00:20:02.697
+<v RA&#218;L ARROYO CA&#209;ADAS>See you.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/487-0
+00:20:02.537 --> 00:20:05.057
+<v JUAN ZOPEQUE GIN&#201;S>Es que a lo mejor.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/488-0
+00:20:02.777 --> 00:20:05.737
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Cada interacción es un sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/486-0
+00:20:04.057 --> 00:20:04.457
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/494-0
+00:20:06.257 --> 00:20:11.168
+<v JUAN ZOPEQUE GIN&#201;S>A lo mejor la iteración cero de puesta en
+marcha puede ser que se refiera pues a</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/494-1
+00:20:11.168 --> 00:20:14.867
+<v JUAN ZOPEQUE GIN&#201;S>todos estos casos de uso que hemos puesto
+como prioritarios,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/494-2
+00:20:14.867 --> 00:20:19.718
+<v JUAN ZOPEQUE GIN&#201;S>que es literalmente lo básico para que
+sea la puesta en marcha y ya a partir de</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/490-0
+00:20:15.897 --> 00:20:16.697
+<v ABRAHAM ESCALONA SECO DE HERRERA>Sí, es eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/491-0
+00:20:19.017 --> 00:20:19.337
+<v ABRAHAM ESCALONA SECO DE HERRERA>A.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/494-3
+00:20:19.718 --> 00:20:21.537
+<v JUAN ZOPEQUE GIN&#201;S>ahí ya hacer los casos de uso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/493-0
+00:20:22.297 --> 00:20:23.377
+<v ABRAHAM ESCALONA SECO DE HERRERA>Claro, es que es eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/492-0
+00:20:22.617 --> 00:20:23.177
+<v &#193;LVARO GARC&#205;A C&#193;MARA>What is that?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/495-0
+00:20:22.617 --> 00:20:26.273
+<v RA&#218;L ARROYO CA&#209;ADAS>Yo creo que no, porque si no,
+pone que tenemos que llevar hecho el</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/495-1
+00:20:26.273 --> 00:20:30.257
+<v RA&#218;L ARROYO CA&#209;ADAS>tablero con el issue de la iteración de
+un seller y enlazado de subasta.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/497-0
+00:20:32.057 --> 00:20:35.737
+<v RA&#218;L ARROYO CA&#209;ADAS>Pero y lo vamos a tener que llevar ya
+hecho, entonces implementado eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/496-0
+00:20:35.177 --> 00:20:35.897
+<v ABRAHAM ESCALONA SECO DE HERRERA>Que.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/500-0
+00:20:37.097 --> 00:20:40.717
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Si no, escúchame,
+podemos dejarlo ahora mismo como lo</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/500-1
+00:20:40.717 --> 00:20:44.538
+<v &#193;LVARO GARC&#205;A C&#193;MARA>tenemos como mucho,
+completarlo con los casos de uso que</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/500-2
+00:20:44.538 --> 00:20:48.627
+<v &#193;LVARO GARC&#205;A C&#193;MARA>hemos sacado. En plan,
+como es un caso de uso, un requisito,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/498-0
+00:20:47.617 --> 00:20:48.257
+<v V&#205;CTOR BRAVO ROJO>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/500-3
+00:20:48.627 --> 00:20:53.453
+<v &#193;LVARO GARC&#205;A C&#193;MARA>podemos hacerlo y esta noche que tenemos
+con ella le podemos preguntar,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/500-4
+00:20:53.453 --> 00:20:56.537
+<v &#193;LVARO GARC&#205;A C&#193;MARA>pues cómo lo hacemos o cualquier cosa de
+eso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/501-0
+00:20:57.217 --> 00:20:59.788
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Claro,
+ahí lo único que tenemos es el template,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/499-0
+00:20:58.097 --> 00:20:58.337
+<v V&#205;CTOR BRAVO ROJO>No.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/502-0
+00:20:59.417 --> 00:21:02.215
+<v MARCELINO IZQUIERDO MOLINA>También hay que preguntar si están bien
+los requisitos y tal,</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/501-1
+00:20:59.788 --> 00:21:00.217
+<v &#193;LVARO GARC&#205;A C&#193;MARA>en plan.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/502-1
+00:21:02.215 --> 00:21:04.697
+<v MARCELINO IZQUIERDO MOLINA>luego a partir de ahí se puede poner los
+casos de uso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/504-0
+00:21:05.297 --> 00:21:06.097
+<v JUAN ZOPEQUE GIN&#201;S>Claro, sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/503-0
+00:21:05.417 --> 00:21:05.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Run.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/505-0
+00:21:05.817 --> 00:21:08.337
+<v ABRAHAM ESCALONA SECO DE HERRERA>Luego, creo, todo lo que es.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/507-0
+00:21:06.697 --> 00:21:12.057
+<v V&#205;CTOR BRAVO ROJO>Ya, pero yo los llevaría ya hechos,
+yo los llevaría ya hechos por, ¿sabes?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/508-0
+00:21:13.217 --> 00:21:15.723
+<v MARCELINO IZQUIERDO MOLINA>Vale,
+también lo puedo hacer yo en distribuidos</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/508-1
+00:21:15.723 --> 00:21:16.297
+<v MARCELINO IZQUIERDO MOLINA>si queréis.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/510-0
+00:21:17.417 --> 00:21:17.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>Okay.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/509-0
+00:21:17.537 --> 00:21:17.977
+<v JUAN ZOPEQUE GIN&#201;S>Ajá.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/511-0
+00:21:17.737 --> 00:21:20.017
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Se aburre demasiado de este chico.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/512-0
+00:21:20.137 --> 00:21:21.137
+<v MARCELINO IZQUIERDO MOLINA>¿Y quién no?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/514-0
+00:21:22.417 --> 00:21:23.057
+<v RA&#218;L ARROYO CA&#209;ADAS>Invasión.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/513-0
+00:21:22.697 --> 00:21:23.137
+<v ABRAHAM ESCALONA SECO DE HERRERA>To go.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/515-0
+00:21:22.857 --> 00:21:23.497
+<v &#193;LVARO GARC&#205;A C&#193;MARA>How do I?</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/516-0
+00:21:25.337 --> 00:21:26.657
+<v ABRAHAM ESCALONA SECO DE HERRERA>Que ahora cuando llegue al piso.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/521-0
+00:21:27.977 --> 00:21:32.180
+<v ABRAHAM ESCALONA SECO DE HERRERA>Este no es mi piso.
+Le pido al OpenCode que abra todos los</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/518-0
+00:21:30.217 --> 00:21:30.817
+<v &#193;LVARO GARC&#205;A C&#193;MARA>No, yo perro.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/521-1
+00:21:32.180 --> 00:21:37.737
+<v ABRAHAM ESCALONA SECO DE HERRERA>Issues desde la tabla esa de contenidos y
+ya está. Y no hay que hacerlo like.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/519-0
+00:21:37.257 --> 00:21:37.777
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Work.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/520-0
+00:21:38.537 --> 00:21:38.937
+<v RA&#218;L ARROYO CA&#209;ADAS>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/522-0
+00:21:39.977 --> 00:21:42.057
+<v ABRAHAM ESCALONA SECO DE HERRERA>Y así no tenemos que hacerlo otra vez
+todo.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/523-0
+00:21:42.777 --> 00:21:43.177
+<v &#193;LVARO GARC&#205;A C&#193;MARA>Okay.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/524-0
+00:21:43.737 --> 00:21:44.217
+<v RA&#218;L ARROYO CA&#209;ADAS>All right.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/525-0
+00:21:48.057 --> 00:21:49.937
+<v ABRAHAM ESCALONA SECO DE HERRERA>Bueno, pues por hoy hemos terminado.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/526-0
+00:21:50.457 --> 00:21:50.857
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/527-0
+00:21:50.617 --> 00:21:52.897
+<v &#193;LVARO GARC&#205;A C&#193;MARA>¿Se puede concluir la reunión?
+Yo creo que sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/528-0
+00:21:52.257 --> 00:21:53.297
+<v JUAN ZOPEQUE GIN&#201;S>Corto llave graban.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/531-0
+00:21:54.537 --> 00:21:56.097
+<v ABRAHAM ESCALONA SECO DE HERRERA>You know, pony name el actor.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/529-0
+00:21:55.097 --> 00:21:55.577
+<v MARCELINO IZQUIERDO MOLINA>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/530-0
+00:21:55.097 --> 00:21:55.617
+<v RA&#218;L ARROYO CA&#209;ADAS>Sí.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/532-0
+00:21:56.697 --> 00:21:57.417
+<v JUAN ZOPEQUE GIN&#201;S>Porto.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/534-0
+00:21:59.497 --> 00:21:59.897
+<v V&#205;CTOR BRAVO ROJO>Vale.</v>
+
+2989ae91-adc5-416a-89f3-3c5621bcf4ad/533-0
+00:21:59.537 --> 00:21:59.977
+<v JUAN ZOPEQUE GIN&#201;S>But...</v>
