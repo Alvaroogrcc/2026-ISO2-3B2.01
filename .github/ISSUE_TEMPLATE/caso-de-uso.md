@@ -8,8 +8,12 @@ CU · RF · Fase · Módulo
 Acta (enlace a la wiki)
 ## Esfuerzo estimado
 **[X] horas**
-## Disciplinas RADIT
-- [ ] Requisitos … - [ ] Pruebas
+## RADIT
+- Requisitos (R): Xh
+- Análisis (A): Xh
+- Diseño (D): Xh
+- Implementación (I): Xh
+- Pruebas (T): Xh
 ## Contratos e interfaces
 ## Criterios de aceptación
 ## Decisiones (DECISIONS.md)
