@@ -29,4 +29,12 @@ public class CitaServiceImpl implements CitaService {
     public List<Cita> listar() {
         return citaRepository.findAll();
     }
+
+    @Override
+    public List<Cita> listarPorPaciente(Long pacienteId) {
+        if (pacienteId == null) {
+            throw new IllegalArgumentException("El id del paciente no puede ser nulo");
+        }
+        return citaRepository.findByPacienteId(pacienteId);
+    }
 }

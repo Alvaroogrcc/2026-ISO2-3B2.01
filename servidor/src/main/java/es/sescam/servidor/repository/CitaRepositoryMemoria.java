@@ -40,4 +40,18 @@ public class CitaRepositoryMemoria implements CitaRepository {
         citas.put(cita.getId(), cita);
         return cita;
     }
+
+    @Override
+    public List<Cita> findByPacienteId(Long pacienteId) {
+        List<Cita> resultado = new ArrayList<>();
+        if (pacienteId == null) {
+            return resultado;
+        }
+        for (Cita cita : citas.values()) {
+            if (cita.getPaciente() != null && pacienteId.equals(cita.getPaciente().getId())) {
+                resultado.add(cita);
+            }
+        }
+        return resultado;
+    }
 }

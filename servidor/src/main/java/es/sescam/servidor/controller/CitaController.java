@@ -12,4 +12,6 @@ public interface CitaController {
     Optional<Cita> obtenerCita(Long id);
 
     List<Cita> listarCitas();
+
+    List<Cita> listarCitasPorPaciente(Long pacienteId);
 }

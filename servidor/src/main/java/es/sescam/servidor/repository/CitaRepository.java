@@ -12,4 +12,6 @@ public interface CitaRepository {
     Optional<Cita> findById(Long id);
 
     Cita save(Cita cita);
+
+    List<Cita> findByPacienteId(Long pacienteId);
 }
