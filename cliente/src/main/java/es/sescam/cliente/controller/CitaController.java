@@ -6,6 +6,10 @@ import es.sescam.cliente.model.CitaDTO;
 
 public interface CitaController {
 
+    void consultarMisCitas(List<CitaDTO> citas);
+
+    void consultarDetalleCita(CitaDTO cita);
+
     void mostrarCita(CitaDTO cita);
 
     void mostrarCitas(List<CitaDTO> citas);
