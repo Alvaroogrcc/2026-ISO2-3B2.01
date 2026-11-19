@@ -3,6 +3,8 @@ package es.sescam.cliente;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.Collections;
 import java.util.List;
 
@@ -35,6 +37,12 @@ class ConsultarCitasClienteTest {
             }
             @Override
             public CitaDTO obtenerCita(Solicitante solicitante, Long citaId) { return null; }
+            @Override
+            public CitaDTO asignarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) { return null; }
+            @Override
+            public CitaDTO reprogramarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) { return null; }
+            @Override
+            public CitaDTO cancelarCita(Solicitante solicitante, Long citaId) { return null; }
         };
         CitaViewEspia vista = new CitaViewEspia();
         CitaController controller = new CitaControllerImpl(api, vista);
@@ -58,6 +66,12 @@ class ConsultarCitasClienteTest {
             public CitaDTO obtenerCita(Solicitante solicitante, Long citaId) {
                 throw new ApiException(new ApiError("CITA_NOT_FOUND", "No se ha encontrado la cita con id " + citaId, 404));
             }
+            @Override
+            public CitaDTO asignarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) { return null; }
+            @Override
+            public CitaDTO reprogramarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) { return null; }
+            @Override
+            public CitaDTO cancelarCita(Solicitante solicitante, Long citaId) { return null; }
         };
         CitaViewEspia vista = new CitaViewEspia();
         CitaController controller = new CitaControllerImpl(api, vista);
@@ -79,6 +93,12 @@ class ConsultarCitasClienteTest {
             }
             @Override
             public CitaDTO obtenerCita(Solicitante solicitante, Long citaId) { return null; }
+            @Override
+            public CitaDTO asignarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) { return null; }
+            @Override
+            public CitaDTO reprogramarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) { return null; }
+            @Override
+            public CitaDTO cancelarCita(Solicitante solicitante, Long citaId) { return null; }
         };
         CitaViewEspia vista = new CitaViewEspia();
         CitaController controller = new CitaControllerImpl(api, vista);
