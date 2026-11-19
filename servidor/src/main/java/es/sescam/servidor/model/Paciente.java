@@ -1,4 +1,4 @@
-package es.sescam.radiodiagnostico.modelo;
+package es.sescam.servidor.model;
 
 import java.time.LocalDate;
 
