@@ -1,10 +1,14 @@
 package es.sescam.cliente.view;
 
+import java.util.List;
+
 import es.sescam.cliente.model.PacienteDTO;
 
-public class PacienteView {
+public interface PacienteView {
 
-    public void mostrarPaciente(PacienteDTO paciente) {
-        // TODO: Implementar vista de paciente
-    }
+    void mostrarPaciente(PacienteDTO paciente);
+
+    void mostrarPacientes(List<PacienteDTO> pacientes);
+
+    void mostrarMensaje(String mensaje);
 }

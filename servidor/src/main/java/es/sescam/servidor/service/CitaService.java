@@ -1,16 +1,15 @@
 package es.sescam.servidor.service;
 
-import es.sescam.servidor.repository.CitaRepository;
+import java.util.List;
+import java.util.Optional;
 
-public class CitaService {
+import es.sescam.servidor.model.Cita;
 
-    private final CitaRepository citaRepository;
+public interface CitaService {
 
-    public CitaService(CitaRepository citaRepository) {
-        this.citaRepository = citaRepository;
-    }
+    Cita crear(Cita cita);
 
-    public CitaRepository getCitaRepository() {
-        return citaRepository;
-    }
+    Optional<Cita> obtenerPorId(Long id);
+
+    List<Cita> listar();
 }

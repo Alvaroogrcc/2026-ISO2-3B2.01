@@ -1,16 +1,15 @@
 package es.sescam.servidor.service;
 
-import es.sescam.servidor.repository.DoctorRepository;
+import java.util.List;
+import java.util.Optional;
 
-public class DoctorService {
+import es.sescam.servidor.model.Doctor;
 
-    private final DoctorRepository doctorRepository;
+public interface DoctorService {
 
-    public DoctorService(DoctorRepository doctorRepository) {
-        this.doctorRepository = doctorRepository;
-    }
+    Doctor crear(Doctor doctor);
 
-    public DoctorRepository getDoctorRepository() {
-        return doctorRepository;
-    }
+    Optional<Doctor> obtenerPorId(Long id);
+
+    List<Doctor> listar();
 }

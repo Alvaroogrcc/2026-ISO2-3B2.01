@@ -1,18 +1,14 @@
 package es.sescam.cliente.controller;
 
-import es.sescam.cliente.service.ApiClient;
-import es.sescam.cliente.view.CitaView;
+import java.util.List;
 
-public class CitaController {
+import es.sescam.cliente.model.CitaDTO;
 
-    private final ApiClient apiClient;
-    private final CitaView view;
+public interface CitaController {
 
-    public CitaController(ApiClient apiClient, CitaView view) {
-        this.apiClient = apiClient;
-        this.view = view;
-    }
+    void mostrarCita(CitaDTO cita);
 
-    public ApiClient getApiClient() { return apiClient; }
-    public CitaView getView() { return view; }
+    void mostrarCitas(List<CitaDTO> citas);
+
+    void mostrarMensaje(String mensaje);
 }

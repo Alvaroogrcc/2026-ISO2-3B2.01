@@ -1,18 +1,14 @@
 package es.sescam.cliente.controller;
 
-import es.sescam.cliente.service.ApiClient;
-import es.sescam.cliente.view.PacienteView;
+import java.util.List;
 
-public class PacienteController {
+import es.sescam.cliente.model.PacienteDTO;
 
-    private final ApiClient apiClient;
-    private final PacienteView view;
+public interface PacienteController {
 
-    public PacienteController(ApiClient apiClient, PacienteView view) {
-        this.apiClient = apiClient;
-        this.view = view;
-    }
+    void mostrarPaciente(PacienteDTO paciente);
 
-    public ApiClient getApiClient() { return apiClient; }
-    public PacienteView getView() { return view; }
+    void mostrarPacientes(List<PacienteDTO> pacientes);
+
+    void mostrarMensaje(String mensaje);
 }

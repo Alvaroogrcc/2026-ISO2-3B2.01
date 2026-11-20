@@ -1,10 +1,14 @@
 package es.sescam.cliente.view;
 
+import java.util.List;
+
 import es.sescam.cliente.model.CitaDTO;
 
-public class CitaView {
+public interface CitaView {
 
-    public void mostrarCita(CitaDTO cita) {
-        // TODO: Implementar vista de cita
-    }
+    void mostrarCita(CitaDTO cita);
+
+    void mostrarCitas(List<CitaDTO> citas);
+
+    void mostrarMensaje(String mensaje);
 }

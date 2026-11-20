@@ -1,16 +1,15 @@
 package es.sescam.servidor.controller;
 
-import es.sescam.servidor.service.CitaService;
+import java.util.List;
+import java.util.Optional;
 
-public class CitaController {
+import es.sescam.servidor.model.Cita;
 
-    private final CitaService citaService;
+public interface CitaController {
 
-    public CitaController(CitaService citaService) {
-        this.citaService = citaService;
-    }
+    Cita crearCita(Cita cita);
 
-    public CitaService getCitaService() {
-        return citaService;
-    }
+    Optional<Cita> obtenerCita(Long id);
+
+    List<Cita> listarCitas();
 }

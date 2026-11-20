@@ -1,16 +1,15 @@
 package es.sescam.servidor.controller;
 
-import es.sescam.servidor.service.DoctorService;
+import java.util.List;
+import java.util.Optional;
 
-public class DoctorController {
+import es.sescam.servidor.model.Doctor;
 
-    private final DoctorService doctorService;
+public interface DoctorController {
 
-    public DoctorController(DoctorService doctorService) {
-        this.doctorService = doctorService;
-    }
+    Doctor crearDoctor(Doctor doctor);
 
-    public DoctorService getDoctorService() {
-        return doctorService;
-    }
+    Optional<Doctor> obtenerDoctor(Long id);
+
+    List<Doctor> listarDoctores();
 }

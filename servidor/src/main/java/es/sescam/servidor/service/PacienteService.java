@@ -1,16 +1,15 @@
 package es.sescam.servidor.service;
 
-import es.sescam.servidor.repository.PacienteRepository;
+import java.util.List;
+import java.util.Optional;
 
-public class PacienteService {
+import es.sescam.servidor.model.Paciente;
 
-    private final PacienteRepository pacienteRepository;
+public interface PacienteService {
 
-    public PacienteService(PacienteRepository pacienteRepository) {
-        this.pacienteRepository = pacienteRepository;
-    }
+    Paciente crear(Paciente paciente);
 
-    public PacienteRepository getPacienteRepository() {
-        return pacienteRepository;
-    }
+    Optional<Paciente> obtenerPorId(Long id);
+
+    List<Paciente> listar();
 }
