@@ -12,9 +12,7 @@ import org.junit.jupiter.api.Test;
 
 import es.sescam.servidor.model.Cita;
 import es.sescam.servidor.model.Doctor;
-import es.sescam.servidor.model.EstadoCita;
 import es.sescam.servidor.model.Paciente;
-import es.sescam.servidor.model.TipoPrueba;
 import es.sescam.servidor.repository.CitaRepository;
 import es.sescam.servidor.repository.CitaRepositoryMemoria;
 
@@ -34,12 +32,12 @@ class CitaRepositoryMemoriaTest {
         CitaRepository repo = new CitaRepositoryMemoria();
         Cita cita = nuevaCita(null);
         Cita guardada = repo.save(cita);
-        guardada.setEstado(EstadoCita.CONFIRMADA);
+        guardada.setEstado("CONFIRMADA");
         repo.save(guardada);
         assertEquals(1, repo.findAll().size());
         Optional<Cita> encontrada = repo.findById(guardada.getId());
         assertTrue(encontrada.isPresent());
-        assertEquals(EstadoCita.CONFIRMADA, encontrada.get().getEstado());
+        assertEquals("CONFIRMADA", encontrada.get().getEstado());
     }
 
     @Test
@@ -52,8 +50,6 @@ class CitaRepositoryMemoriaTest {
     private Cita nuevaCita(Long id) {
         Paciente paciente = new Paciente(1L, "Ana", "Lopez", "123", null, "600", "a@b", "dir", "HC1");
         Doctor doctor = new Doctor(2L, "Luis", "Perez", "456", "C1", "Radio", "700", "d@b");
-        TipoPrueba tipo = new TipoPrueba(3L, "RX Torax", es.sescam.servidor.model.Modalidad.RX, "Sala 1", 10,
-                "Ninguna", false, false, "", "MEDIA", false);
-        return new Cita(id, LocalDate.now(), LocalTime.of(10, 0), EstadoCita.PENDIENTE, paciente, doctor, tipo);
+        return new Cita(id, LocalDate.now(), LocalTime.of(10, 0), "PENDIENTE", paciente, doctor);
     }
 }

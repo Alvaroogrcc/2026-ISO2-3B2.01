@@ -23,7 +23,7 @@ class CitaControllerClienteTest {
         CitaViewEspia vista = new CitaViewEspia();
         CitaController controller = new CitaControllerImpl(api, vista);
 
-        CitaDTO cita = new CitaDTO(1L, null, null, "PENDIENTE", 10L, 20L, 30L);
+        CitaDTO cita = new CitaDTO(1L, null, null, "PENDIENTE", 10L, 20L);
         controller.mostrarCita(cita);
         controller.mostrarCitas(List.of(cita));
         controller.mostrarMensaje("ok");

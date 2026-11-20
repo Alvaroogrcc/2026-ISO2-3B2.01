@@ -10,24 +10,18 @@ public class CitaDTO {
     private LocalTime hora;
     private String estado;
     private Long pacienteId;
-    /**
-     * Identificador del médico responsable que atiende/realiza la prueba en la cita.
-     */
-    private Long medicoResponsableId;
-    private Long tipoPruebaId;
+    private Long doctorId;
 
     public CitaDTO() {
     }
 
-    public CitaDTO(Long id, LocalDate fecha, LocalTime hora, String estado,
-                   Long pacienteId, Long medicoResponsableId, Long tipoPruebaId) {
+    public CitaDTO(Long id, LocalDate fecha, LocalTime hora, String estado, Long pacienteId, Long doctorId) {
         this.id = id;
         this.fecha = fecha;
         this.hora = hora;
         this.estado = estado;
         this.pacienteId = pacienteId;
-        this.medicoResponsableId = medicoResponsableId;
-        this.tipoPruebaId = tipoPruebaId;
+        this.doctorId = doctorId;
     }
 
     public Long getId() { return id; }
@@ -40,8 +34,6 @@ public class CitaDTO {
     public void setEstado(String estado) { this.estado = estado; }
     public Long getPacienteId() { return pacienteId; }
     public void setPacienteId(Long pacienteId) { this.pacienteId = pacienteId; }
-    public Long getMedicoResponsableId() { return medicoResponsableId; }
-    public void setMedicoResponsableId(Long medicoResponsableId) { this.medicoResponsableId = medicoResponsableId; }
-    public Long getTipoPruebaId() { return tipoPruebaId; }
-    public void setTipoPruebaId(Long tipoPruebaId) { this.tipoPruebaId = tipoPruebaId; }
+    public Long getDoctorId() { return doctorId; }
+    public void setDoctorId(Long doctorId) { this.doctorId = doctorId; }
 }
