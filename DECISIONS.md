@@ -65,3 +65,34 @@ Para equilibrar la carga de trabajo, los casos de uso se han dividido en dos gru
 Cada caso de uso tiene asignadas **3 personas** del mismo equipo. La carga de trabajo se distribuye equitativamente dentro de cada equipo, de modo que cada miembro tiene aproximadamente **160 horas** asignadas.
 
 Todos los títulos de los issues en GitHub han sido actualizados con el formato: `CU-XX – Nombre (módulo vX.Y.Z) [Xh]` para reflejar el esfuerzo estimado.
+
+## D-003 · ITERACIÓN 0: MÓDULOS, INTERFACES Y COMUNICACIÓN CLIENTE-SERVIDOR
+
+Fecha: 20/11/2026
+
+### 1. Organización de módulos Maven
+
+El enunciado establece **1 CDU : 1 iteración** y **un módulo (componente Maven) por iteración**. Dada la arquitectura **cliente-servidor** (aplicaciones de escritorio, móvil y web), se mantienen dos módulos Maven físicos en el repositorio:
+
+- `servidor`: dominio, repositorios, servicios, controladores y contratos transversales (auditoría, seguridad/SSO).
+- `cliente`: controladores de presentación, vistas y cliente de comunicación con el servidor.
+
+**Justificación:** la separación física refleja el despliegue real y el mínimo acoplamiento. El incremento de cada iteración se materializa como evolución versionada y trazable de estos módulos (paquetes/contratos asociados al CDU), siguiendo SemVer y Git Flow. Si más adelante se requiere empaquetado independiente por incremento, se evaluará la extracción a submódulos sin romper esta separación.
+
+### 2. Interfaces base y contratos transversales
+
+Se aplica **programación orientada a interfaces** en las tres capas:
+- **Servidor**: `*Repository`, `*Service` y `*Controller` definidos como interfaces, con implementaciones mínimas (`*RepositoryMemoria`, `*ServiceImpl`, `*ControllerImpl`) que delegan/almacenan lo necesario para compilar y probar (sin lógica de negocio de CU). Métodos base definidos según lo conocido (p. ej. `findById`, `save`, `findAll`).
+- **Cliente**: `ApiClient` y `*View` definidos como interfaces (para permitir implementaciones por plataforma: escritorio, móvil, web), con implementaciones mínimas (`ApiClientRest`, `*ViewImpl`); `*Controller` de cliente como interfaz con implementación mínima que depende de `ApiClient` y vistas por interfaz.
+
+**Contratos transversales (uso común a varios CU):** `auditoria.Auditoria` con `AuditoriaStub`, y `seguridad.ServicioAutenticacionSSO`, `seguridad.Usuario` y `seguridad.Rol` (modelo de usuario y roles, RNF-SEG-01).
+
+Las **clases de datos** existentes (`Cita`, `Paciente`, `Doctor`, `Persona` y DTOs de cliente) se tratan como modelos sin lógica y no se modifican en esta iteración.
+
+**Gobierno de interfaces:** añadir métodos nuevos es compatible con la evolución por CU (p. ej. `reprogramarCita(...)` en un CU futuro), pero cambiar o eliminar firmas rompe a otros equipos; cualquier cambio de interfaz debe ser revisado por el responsable de diseño de interfaces (Víctor).
+
+### 3. Comunicación cliente-servidor
+
+- El **cliente** no accede directamente a clases del servidor: se comunica a través de la interfaz `ApiClient` (abstracción del canal) intercambiando **DTOs** (`*DTO`).
+- La implementación prevista es una **API remota (p. ej. REST/HTTP)** expuesta por el módulo `servidor`; `ApiClientRest` encapsula el punto de acceso (p. ej. `baseUrl`) y en iteraciones posteriores incorporará las llamadas reales a la red. Las vistas se mantienen como interfaces para desacoplar la UI concreta de cada plataforma.
+- El **servidor** expone la funcionalidad mediante sus interfaces de controlador/servicio sobre el modelo de dominio; la adaptación modelo↔DTO se realizará en la frontera cuando se concrete la API. Se pospone un módulo común de contratos/DTOs hasta definir el contrato de API/serialización para evitar acoplamiento prematuro.
