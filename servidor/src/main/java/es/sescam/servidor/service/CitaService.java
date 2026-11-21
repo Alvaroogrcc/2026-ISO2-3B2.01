@@ -12,4 +12,6 @@ public interface CitaService {
     Optional<Cita> obtenerPorId(Long id);
 
     List<Cita> listar();
+
+    List<Cita> listarPorPaciente(Long pacienteId);
 }

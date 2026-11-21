@@ -29,4 +29,9 @@ public class CitaControllerImpl implements CitaController {
     public List<Cita> listarCitas() {
         return citaService.listar();
     }
+
+    @Override
+    public List<Cita> listarCitasPorPaciente(Long pacienteId) {
+        return citaService.listarPorPaciente(pacienteId);
+    }
 }

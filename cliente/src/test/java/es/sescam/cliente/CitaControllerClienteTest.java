@@ -21,7 +21,7 @@ class CitaControllerClienteTest {
     void delegaEnLaVista() {
         CitaApiClient api = new CitaApiClientRest("http://localhost");
         CitaViewEspia vista = new CitaViewEspia();
-        CitaController controller = new CitaControllerImpl(api, vista);
+        CitaController controller = new CitaControllerImpl(vista);
 
         CitaDTO cita = new CitaDTO(1L, null, null, "PENDIENTE", 10L, 20L);
         controller.mostrarCita(cita);
