@@ -34,19 +34,11 @@ jobs:
         run: mvn -B -pl ${{ matrix.modulo }} -am verify
 
   javadoc:
-    name: Generar y publicar Javadoc
+    name: Generar Javadoc
     needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-    concurrency:
-      group: pages
-      cancel-in-progress: false
     steps:
       - name: Descargar el código
         uses: actions/checkout@v7
@@ -67,11 +59,22 @@ jobs:
         with:
           path: target/site/apidocs
 
-      # Publica desde develop (rama por defecto) y desde main (producción).
-      # En PRs solo se comprueba que el Javadoc se genera sin errores.
+  deploy:
+    name: Publicar Javadoc en GitHub Pages
+    needs: javadoc
+    # El entorno github-pages solo permite despliegues desde develop.
+    if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
       - name: Publicar en GitHub Pages
-        id: deploy
-        if: >-
-          github.event_name == 'push' &&
-          (github.ref == 'refs/heads/develop' || github.ref == 'refs/heads/main')
+        id: deployment
         uses: actions/deploy-pages@v5
