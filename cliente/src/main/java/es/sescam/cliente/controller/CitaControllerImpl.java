@@ -1,11 +1,15 @@
 package es.sescam.cliente.controller;
 
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
+import java.util.function.Supplier;
 
 import es.sescam.cliente.model.CitaDTO;
 import es.sescam.cliente.service.CitaApiClient;
+import es.sescam.cliente.service.auth.Solicitante;
 import es.sescam.cliente.service.error.ApiException;
 import es.sescam.cliente.view.CitaView;
 
@@ -55,5 +59,29 @@ public class CitaControllerImpl implements CitaController {
     @Override
     public void mostrarMensaje(String mensaje) {
         view.mostrarMensaje(mensaje);
+    }
+
+    @Override
+    public void asignarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) {
+        gestionar(() -> citaApiClient.asignarCita(solicitante, citaId, fecha, hora), "Cita asignada");
+    }
+
+    @Override
+    public void reprogramarCita(Solicitante solicitante, Long citaId, LocalDate fecha, LocalTime hora) {
+        gestionar(() -> citaApiClient.reprogramarCita(solicitante, citaId, fecha, hora), "Cita reprogramada");
+    }
+
+    @Override
+    public void cancelarCita(Solicitante solicitante, Long citaId) {
+        gestionar(() -> citaApiClient.cancelarCita(solicitante, citaId), "Cita cancelada");
+    }
+
+    private void gestionar(Supplier<CitaDTO> operacion, String mensaje) {
+        try {
+            view.mostrarCita(operacion.get());
+            view.mostrarMensaje(mensaje);
+        } catch (ApiException e) {
+            view.mostrarMensaje(e.getError().getMessage());
+        }
     }
 }

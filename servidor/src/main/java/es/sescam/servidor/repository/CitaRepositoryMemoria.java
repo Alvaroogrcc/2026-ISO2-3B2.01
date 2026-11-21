@@ -1,5 +1,6 @@
 package es.sescam.servidor.repository;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
@@ -49,6 +50,21 @@ public class CitaRepositoryMemoria implements CitaRepository {
         }
         for (Cita cita : citas.values()) {
             if (cita.getPaciente() != null && pacienteId.equals(cita.getPaciente().getId())) {
+                resultado.add(cita);
+            }
+        }
+        return resultado;
+    }
+
+    @Override
+    public List<Cita> findByDoctorIdAndFecha(Long doctorId, LocalDate fecha) {
+        List<Cita> resultado = new ArrayList<>();
+        if (doctorId == null || fecha == null) {
+            return resultado;
+        }
+        for (Cita cita : citas.values()) {
+            if (cita.getDoctor() != null && doctorId.equals(cita.getDoctor().getId())
+                    && fecha.equals(cita.getFecha())) {
                 resultado.add(cita);
             }
         }
