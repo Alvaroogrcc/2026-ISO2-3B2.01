@@ -4,11 +4,13 @@ import java.util.List;
 
 import es.sescam.cliente.model.CitaDTO;
 
+import es.sescam.cliente.service.auth.Solicitante;
+
 public interface CitaController {
 
-    void consultarMisCitas(List<CitaDTO> citas);
+    void consultarMisCitas(Solicitante solicitante, Long pacienteId);
 
-    void consultarDetalleCita(CitaDTO cita);
+    void consultarDetalleCita(Solicitante solicitante, Long citaId);
 
     void mostrarCita(CitaDTO cita);
 
