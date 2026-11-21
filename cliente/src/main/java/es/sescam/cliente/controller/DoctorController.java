@@ -4,11 +4,13 @@ import java.util.List;
 
 import es.sescam.cliente.model.DoctorDTO;
 
+import es.sescam.cliente.service.auth.Solicitante;
+
 public interface DoctorController {
 
-    void consultarDoctor(Long doctorId);
+    void consultarDoctor(Solicitante solicitante, Long doctorId);
 
-    void listarDoctores();
+    void listarDoctores(Solicitante solicitante);
 
     void mostrarDoctor(DoctorDTO doctor);
 

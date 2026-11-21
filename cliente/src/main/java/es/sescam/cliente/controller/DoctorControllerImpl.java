@@ -19,9 +19,9 @@ public class DoctorControllerImpl implements DoctorController {
     }
 
     @Override
-    public void consultarDoctor(Long doctorId) {
+    public void consultarDoctor(es.sescam.cliente.service.auth.Solicitante solicitante, Long doctorId) {
         try {
-            DoctorDTO doctor = doctorApiClient.obtenerDoctor(doctorId);
+            DoctorDTO doctor = doctorApiClient.obtenerDoctor(solicitante, doctorId);
             if (doctor == null) {
                 throw new ApiException(new es.sescam.cliente.service.error.ApiError("DOCTOR_NOT_FOUND", "No se ha encontrado el doctor con id " + doctorId, 404));
             }
@@ -32,9 +32,9 @@ public class DoctorControllerImpl implements DoctorController {
     }
 
     @Override
-    public void listarDoctores() {
+    public void listarDoctores(es.sescam.cliente.service.auth.Solicitante solicitante) {
         try {
-            view.mostrarDoctores(doctorApiClient.listarDoctores());
+            view.mostrarDoctores(doctorApiClient.listarDoctores(solicitante));
         } catch (ApiException e) {
             view.mostrarMensaje(e.getError().getMessage());
         }

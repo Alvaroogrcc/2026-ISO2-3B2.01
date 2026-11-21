@@ -19,9 +19,9 @@ public class CitaControllerImpl implements CitaController {
     }
 
     @Override
-    public void consultarMisCitas(Long pacienteId) {
+    public void consultarMisCitas(es.sescam.cliente.service.auth.Solicitante solicitante, Long pacienteId) {
         try {
-            List<CitaDTO> citas = citaApiClient.obtenerCitasPaciente(pacienteId);
+            List<CitaDTO> citas = citaApiClient.obtenerCitasPaciente(solicitante, pacienteId);
             view.mostrarCitas(citas);
         } catch (ApiException e) {
             view.mostrarMensaje(e.getError().getMessage());
@@ -29,9 +29,9 @@ public class CitaControllerImpl implements CitaController {
     }
 
     @Override
-    public void consultarDetalleCita(Long citaId) {
+    public void consultarDetalleCita(es.sescam.cliente.service.auth.Solicitante solicitante, Long citaId) {
         try {
-            CitaDTO cita = citaApiClient.obtenerCita(citaId);
+            CitaDTO cita = citaApiClient.obtenerCita(solicitante, citaId);
             if (cita == null) {
                 throw new ApiException(new es.sescam.cliente.service.error.ApiError("CITA_NOT_FOUND", "No se ha encontrado la cita con id " + citaId, 404));
             }

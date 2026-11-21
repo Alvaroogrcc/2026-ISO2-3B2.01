@@ -19,9 +19,9 @@ public class PacienteControllerImpl implements PacienteController {
     }
 
     @Override
-    public void consultarPaciente(Long pacienteId) {
+    public void consultarPaciente(es.sescam.cliente.service.auth.Solicitante solicitante, Long pacienteId) {
         try {
-            PacienteDTO paciente = pacienteApiClient.obtenerPaciente(pacienteId);
+            PacienteDTO paciente = pacienteApiClient.obtenerPaciente(solicitante, pacienteId);
             if (paciente == null) {
                 throw new ApiException(new es.sescam.cliente.service.error.ApiError("PACIENTE_NOT_FOUND", "No se ha encontrado el paciente con id " + pacienteId, 404));
             }
@@ -32,9 +32,9 @@ public class PacienteControllerImpl implements PacienteController {
     }
 
     @Override
-    public void listarPacientes() {
+    public void listarPacientes(es.sescam.cliente.service.auth.Solicitante solicitante) {
         try {
-            view.mostrarPacientes(pacienteApiClient.listarPacientes());
+            view.mostrarPacientes(pacienteApiClient.listarPacientes(solicitante));
         } catch (ApiException e) {
             view.mostrarMensaje(e.getError().getMessage());
         }
