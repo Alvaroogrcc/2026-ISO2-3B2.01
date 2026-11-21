@@ -43,21 +43,23 @@ class ConsultarCitasClienteTest {
     }
 
     @Test
-    void consultarDetalleCitaInexistenteMuestraMensaje() {
+    void consultarDetalleCitaInexistenteMuestraMensaje404() {
         CitaApiClient api = new CitaApiClient() {
             @Override
             public String getBaseUrl() { return "http://local"; }
             @Override
             public List<CitaDTO> obtenerCitasPaciente(Long pacienteId) { return Collections.emptyList(); }
             @Override
-            public CitaDTO obtenerCita(Long citaId) { return null; }
+            public CitaDTO obtenerCita(Long citaId) {
+                throw new ApiException(new ApiError("CITA_NOT_FOUND", "No se ha encontrado la cita con id " + citaId, 404));
+            }
         };
         CitaViewEspia vista = new CitaViewEspia();
         CitaController controller = new CitaControllerImpl(api, vista);
 
         controller.consultarDetalleCita(999L);
 
-        assertEquals("No se ha encontrado la cita solicitada.", vista.ultimoMensaje);
+        assertEquals("No se ha encontrado la cita con id 999", vista.ultimoMensaje);
     }
 
     @Test

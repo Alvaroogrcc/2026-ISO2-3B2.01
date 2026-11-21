@@ -26,7 +26,7 @@ public class PacienteApiClientRest implements PacienteApiClient {
         if (pacienteId == null) {
             throw new ApiException(new ApiError("PACIENTE_INVALID_REQUEST", "pacienteId no puede ser nulo", 400));
         }
-        return null;
+        throw new ApiException(new ApiError("PACIENTE_NOT_FOUND", "No se ha encontrado el paciente con id " + pacienteId, 404));
     }
 
     @Override

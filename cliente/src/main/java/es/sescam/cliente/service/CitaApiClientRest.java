@@ -36,6 +36,6 @@ public class CitaApiClientRest implements CitaApiClient {
             throw new ApiException(new ApiError("CITA_INVALID_REQUEST", "citaId no puede ser nulo", 400));
         }
         // Implementación mínima: pendiente de llamada HTTP real.
-        return null;
+        throw new ApiException(new ApiError("CITA_NOT_FOUND", "No se ha encontrado la cita con id " + citaId, 404));
     }
 }

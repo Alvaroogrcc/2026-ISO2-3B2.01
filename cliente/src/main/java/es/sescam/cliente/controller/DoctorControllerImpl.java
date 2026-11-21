@@ -23,8 +23,7 @@ public class DoctorControllerImpl implements DoctorController {
         try {
             DoctorDTO doctor = doctorApiClient.obtenerDoctor(doctorId);
             if (doctor == null) {
-                view.mostrarMensaje("No se ha encontrado el doctor solicitado.");
-                return;
+                throw new ApiException(new es.sescam.cliente.service.error.ApiError("DOCTOR_NOT_FOUND", "No se ha encontrado el doctor con id " + doctorId, 404));
             }
             view.mostrarDoctor(doctor);
         } catch (ApiException e) {

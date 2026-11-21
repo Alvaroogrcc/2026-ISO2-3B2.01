@@ -26,7 +26,7 @@ public class DoctorApiClientRest implements DoctorApiClient {
         if (doctorId == null) {
             throw new ApiException(new ApiError("DOCTOR_INVALID_REQUEST", "doctorId no puede ser nulo", 400));
         }
-        return null;
+        throw new ApiException(new ApiError("DOCTOR_NOT_FOUND", "No se ha encontrado el doctor con id " + doctorId, 404));
     }
 
     @Override

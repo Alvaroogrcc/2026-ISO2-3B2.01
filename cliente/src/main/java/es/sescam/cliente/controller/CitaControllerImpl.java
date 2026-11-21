@@ -33,8 +33,7 @@ public class CitaControllerImpl implements CitaController {
         try {
             CitaDTO cita = citaApiClient.obtenerCita(citaId);
             if (cita == null) {
-                view.mostrarMensaje("No se ha encontrado la cita solicitada.");
-                return;
+                throw new ApiException(new es.sescam.cliente.service.error.ApiError("CITA_NOT_FOUND", "No se ha encontrado la cita con id " + citaId, 404));
             }
             view.mostrarCita(cita);
         } catch (ApiException e) {

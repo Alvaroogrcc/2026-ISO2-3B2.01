@@ -23,8 +23,7 @@ public class PacienteControllerImpl implements PacienteController {
         try {
             PacienteDTO paciente = pacienteApiClient.obtenerPaciente(pacienteId);
             if (paciente == null) {
-                view.mostrarMensaje("No se ha encontrado el paciente solicitado.");
-                return;
+                throw new ApiException(new es.sescam.cliente.service.error.ApiError("PACIENTE_NOT_FOUND", "No se ha encontrado el paciente con id " + pacienteId, 404));
             }
             view.mostrarPaciente(paciente);
         } catch (ApiException e) {
