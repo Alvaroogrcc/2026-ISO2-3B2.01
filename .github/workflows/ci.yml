@@ -67,8 +67,11 @@ jobs:
         with:
           path: target/site/apidocs
 
-      # Solo se publica desde main; en PR se comprueba que se genera sin errores.
+      # Publica desde develop (rama por defecto) y desde main (producción).
+      # En PRs solo se comprueba que el Javadoc se genera sin errores.
       - name: Publicar en GitHub Pages
         id: deploy
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: >-
+          github.event_name == 'push' &&
+          (github.ref == 'refs/heads/develop' || github.ref == 'refs/heads/main')
         uses: actions/deploy-pages@v5
