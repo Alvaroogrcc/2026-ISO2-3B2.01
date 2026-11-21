@@ -6,6 +6,10 @@ import es.sescam.cliente.model.DoctorDTO;
 
 public interface DoctorController {
 
+    void consultarDoctor(Long doctorId);
+
+    void listarDoctores();
+
     void mostrarDoctor(DoctorDTO doctor);
 
     void mostrarDoctores(List<DoctorDTO> doctores);

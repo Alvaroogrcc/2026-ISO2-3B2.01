@@ -11,15 +11,15 @@ import org.junit.jupiter.api.Test;
 import es.sescam.cliente.controller.CitaController;
 import es.sescam.cliente.controller.CitaControllerImpl;
 import es.sescam.cliente.model.CitaDTO;
-import es.sescam.cliente.service.ApiClient;
-import es.sescam.cliente.service.ApiClientRest;
+import es.sescam.cliente.service.CitaApiClient;
+import es.sescam.cliente.service.CitaApiClientRest;
 import es.sescam.cliente.view.CitaView;
 
 class CitaControllerClienteTest {
 
     @Test
     void delegaEnLaVista() {
-        ApiClient api = new ApiClientRest("http://localhost");
+        CitaApiClient api = new CitaApiClientRest("http://localhost");
         CitaViewEspia vista = new CitaViewEspia();
         CitaController controller = new CitaControllerImpl(api, vista);
 
