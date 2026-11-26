@@ -1,0 +1,80 @@
+name: CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Compilar y probar (${{ matrix.modulo }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        modulo: [cliente, servidor]
+    steps:
+      - name: Descargar el código
+        uses: actions/checkout@v7
+
+      - name: Instalar Java 21
+        uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+
+      # -am incluye el POM padre; cada módulo se comprueba de forma independiente.
+      - name: Compilar y pasar los tests de ${{ matrix.modulo }}
+        run: mvn -B -pl ${{ matrix.modulo }} -am verify
+
+  javadoc:
+    name: Generar Javadoc
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Descargar el código
+        uses: actions/checkout@v7
+
+      - name: Instalar Java 21
+        uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+
+      # javadoc:aggregate genera una única página con cliente + servidor.
+      - name: Generar Javadoc agregado
+        run: mvn -B javadoc:aggregate
+
+      - name: Preparar artefacto de GitHub Pages
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: target/site/apidocs
+
+  deploy:
+    name: Publicar Javadoc en GitHub Pages
+    needs: javadoc
+    # El entorno github-pages solo permite despliegues desde develop.
+    if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
